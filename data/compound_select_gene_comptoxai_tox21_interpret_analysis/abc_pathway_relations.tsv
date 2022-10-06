@@ -1,0 +1,4 @@
+source	target
+Abacavir transmembrane transport	Abacavir ADME
+Abacavir ADME	Metabolism
+Metabolism	Cell Death (HEK293)

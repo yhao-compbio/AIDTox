@@ -1,0 +1,21 @@
+node_name	group
+CYP1A1	CYP1
+CYP1A2	CYP1
+CYP2B6	CYP2
+CYP2C8	CYP2
+CYP2D6	CYP2
+CYP3A4	CYP3
+CYP11A1	CYP11
+CYP11B1	CYP11
+CYP19A1	CYP19
+CYP27A1	CYP27
+CYP51A1	CYP51
+Fatty acid metabolism	lipid
+Regulation of lipid metabolism by PPARα	lipid
+Biosynthesis of SPMs	lipid
+Aflatoxin activation/detoxification	oxidation
+Phase II - Conjugation	oxidation
+Phase I - Functionalization	oxidation
+Metabolism of steroids	lipid
+Metabolism of lipids	lipid
+Biological oxidations	oxidation

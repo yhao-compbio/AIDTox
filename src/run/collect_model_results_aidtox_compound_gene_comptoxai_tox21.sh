@@ -1,0 +1,2 @@
+module add R
+Rscript	src/analysis_dtox/collect_model_results.R	data/compound_select_gene_comptoxai_tox21_implementation/	12	14	15	28	dtox	data/compound_select_gene_comptoxai_tox21_implementation/compound_select_gene_comptoxai_tox21_implementation

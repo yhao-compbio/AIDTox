@@ -1,0 +1,15 @@
+source	target
+Biosynthesis of specialized proresolving mediators (SPMs)	Metabolism of lipids
+Abacavir transmembrane transport	Abacavir ADME
+Signaling by NTRKs	Signaling by Receptor Tyrosine Kinases
+RHO GTPase Effectors	Signaling by Rho GTPases
+Signaling by PDGF	Signaling by Receptor Tyrosine Kinases
+Erythropoietin activates STAT5	Signaling by Erythropoietin
+Abacavir ADME	Metabolism
+Metabolism of lipids	Metabolism
+Signaling by Receptor Tyrosine Kinases	Signal Transduction
+Signaling by Rho GTPases	Signal Transduction
+Signaling by Erythropoietin	Signal Transduction
+Signaling by Leptin	Signal Transduction
+Metabolism	Cell Death (HEK293)	
+Signal Transduction	Cell Death (HEK293)

@@ -1,0 +1,1421 @@
+compound_name	cid	atc_id	atc_id1	atc_id1_annotation	atc_id3	atc_id5
+amlexanox	CID_2161	A01AD07	A	A: Alimentary tract	A01	A01AD
+amphotericin b	CID_5280965	A01AB04	A	A: Alimentary tract	A01	A01AB
+chlorhexidine	CID_9552079	A01AB03	A	A: Alimentary tract	A01	A01AB
+clotrimazole	CID_2812	A01AB18	A	A: Alimentary tract	A01	A01AB
+dexamethasone	CID_9782	A01AC02	A	A: Alimentary tract	A01	A01AC
+dexamethasone	CID_5743	A01AC02	A	A: Alimentary tract	A01	A01AC
+doxycycline	CID_54685920	A01AB22	A	A: Alimentary tract	A01	A01AB
+epinephrine	CID_5816	A01AD01	A	A: Alimentary tract	A01	A01AD
+hexetidine	CID_3607	A01AB12	A	A: Alimentary tract	A01	A01AB
+hydrocortisone	CID_5754	A01AC03	A	A: Alimentary tract	A01	A01AC
+mepartricin	CID_9941647	A01AB16	A	A: Alimentary tract	A01	A01AB
+metronidazole	CID_4173	A01AB17	A	A: Alimentary tract	A01	A01AB
+miconazole	CID_4189	A01AB09	A	A: Alimentary tract	A01	A01AB
+minocycline	CID_54675783	A01AB23	A	A: Alimentary tract	A01	A01AB
+natamycin	CID_5284447	A01AB10	A	A: Alimentary tract	A01	A01AB
+tetracycline	CID_54675776	A01AB13	A	A: Alimentary tract	A01	A01AB
+triamcinolone	CID_31307	A01AC01	A	A: Alimentary tract	A01	A01AC
+cimetidine	CID_2756	A02BA01	A	A: Alimentary tract	A02	A02BA
+famotidine	CID_3325	A02BA03	A	A: Alimentary tract	A02	A02BA
+gefarnate	CID_5282182	A02BX07	A	A: Alimentary tract	A02	A02BX
+lafutidine	CID_5282136	A02BA08	A	A: Alimentary tract	A02	A02BA
+lansoprazole	CID_3883	A02BC03	A	A: Alimentary tract	A02	A02BC
+misoprostol	CID_5282381	A02BB01	A	A: Alimentary tract	A02	A02BB
+nizatidine	CID_4513	A02BA04	A	A: Alimentary tract	A02	A02BA
+omeprazole	CID_4594	A02BC01	A	A: Alimentary tract	A02	A02BC
+pantoprazole	CID_4679	A02BC02	A	A: Alimentary tract	A02	A02BC
+pirenzepine	CID_4848	A02BX03	A	A: Alimentary tract	A02	A02BX
+proglumide	CID_4922	A02BX06	A	A: Alimentary tract	A02	A02BX
+rabeprazole	CID_14720269	A02BC04	A	A: Alimentary tract	A02	A02BC
+ranitidine	CID_3001055	A02BA02	A	A: Alimentary tract	A02	A02BA
+rebamipide	CID_5042	A02BX14	A	A: Alimentary tract	A02	A02BX
+troxipide	CID_5597	A02BX11	A	A: Alimentary tract	A02	A02BX
+zolimidine	CID_14652	A02BX10	A	A: Alimentary tract	A02	A02BX
+atropine	CID_174174	A03BA01	A	A: Alimentary tract	A03	A03BA
+bromopride	CID_2446	A03FA04	A	A: Alimentary tract	A03	A03FA
+camylofin	CID_5902	A03AA03	A	A: Alimentary tract	A03	A03AA
+caroverine	CID_65709	A03AX11	A	A: Alimentary tract	A03	A03AX
+cisapride	CID_2769	A03FA02	A	A: Alimentary tract	A03	A03FA
+domperidone	CID_3151	A03FA03	A	A: Alimentary tract	A03	A03FA
+fenoverine	CID_72098	A03AX05	A	A: Alimentary tract	A03	A03AX
+hexocyclium	CID_101587	A03AB10	A	A: Alimentary tract	A03	A03AB
+isopropamide	CID_3775	A03AB09	A	A: Alimentary tract	A03	A03AB
+metoclopramide	CID_4168	A03FA01	A	A: Alimentary tract	A03	A03FA
+moxaverine	CID_70882	A03AD30	A	A: Alimentary tract	A03	A03AD
+otilonium bromide	CID_72092	A03AB06	A	A: Alimentary tract	A03	A03AB
+prifinium bromide	CID_20749	A03AB18	A	A: Alimentary tract	A03	A03AB
+timepidium bromide	CID_160243	A03AB19	A	A: Alimentary tract	A03	A03AB
+trepibutone	CID_5536	A03AX09	A	A: Alimentary tract	A03	A03AX
+aprepitant	CID_60196364	A04AD12	A	A: Alimentary tract	A04	A04AD
+ondansetron	CID_4595	A04AA01	A	A: Alimentary tract	A04	A04AA
+tropisetron	CID_656665	A04AA03	A	A: Alimentary tract	A04	A04AA
+chenodeoxycholic acid	CID_10133	A05AA01	A	A: Alimentary tract	A05	A05AA
+citiolone	CID_14520	A05BA04	A	A: Alimentary tract	A05	A05BA
+glycyrrhizic acid	CID_14982	A05BA08	A	A: Alimentary tract	A05	A05BA
+bisacodyl	CID_2391	A06AB02	A	A: Alimentary tract	A06	A06AB
+bisacodyl	CID_2391	A06AG02	A	A: Alimentary tract	A06	A06AG
+castor oil	CID_NA	A06AB05	A	A: Alimentary tract	A06	A06AB
+docusate sodium	CID_23673837	A06AA02	A	A: Alimentary tract	A06	A06AA
+glycerol	CID_753	A06AG04	A	A: Alimentary tract	A06	A06AG
+glycerol	CID_753	A06AX01	A	A: Alimentary tract	A06	A06AX
+lactitol	CID_157355	A06AD12	A	A: Alimentary tract	A06	A06AD
+lactulose	CID_11333	A06AD11	A	A: Alimentary tract	A06	A06AD
+lubiprostone	CID_157920	A06AX03	A	A: Alimentary tract	A06	A06AX
+mannitol	CID_11850	A06AD16	A	A: Alimentary tract	A06	A06AD
+naloxone	CID_5284596	A06AH04	A	A: Alimentary tract	A06	A06AH
+phenolphthalein	CID_4764	A06AB04	A	A: Alimentary tract	A06	A06AB
+prucalopride	CID_3052762	A06AX05	A	A: Alimentary tract	A06	A06AX
+acetarsol	CID_1985	A07AX02	A	A: Alimentary tract	A07	A07AX
+amphotericin b	CID_5280965	A07AA07	A	A: Alimentary tract	A07	A07AA
+betamethasone	CID_9782	A07EA04	A	A: Alimentary tract	A07	A07EA
+broxyquinoline	CID_2453	A07AX01	A	A: Alimentary tract	A07	A07AX
+budesonide	CID_40000	A07EA06	A	A: Alimentary tract	A07	A07EA
+hydrocortisone	CID_5754	A07EA02	A	A: Alimentary tract	A07	A07EA
+miconazole	CID_4189	A07AC01	A	A: Alimentary tract	A07	A07AC
+natamycin	CID_5284447	A07AA03	A	A: Alimentary tract	A07	A07AA
+nifuroxazide	CID_13764	A07AX03	A	A: Alimentary tract	A07	A07AX
+nystatin	CID_60196358	A07AA02	A	A: Alimentary tract	A07	A07AA
+phthalylsulfathiazole	CID_4806	A07AB02	A	A: Alimentary tract	A07	A07AB
+prednisolone	CID_5755	A07EA01	A	A: Alimentary tract	A07	A07EA
+prednisone	CID_5865	A07EA03	A	A: Alimentary tract	A07	A07EA
+racecadotril	CID_60561	A07XA04	A	A: Alimentary tract	A07	A07XA
+rifaximin	CID_6436173	A07AA11	A	A: Alimentary tract	A07	A07AA
+succinylsulfathiazole	CID_5315	A07AB04	A	A: Alimentary tract	A07	A07AB
+sulfaguanidine	CID_5324	A07AB03	A	A: Alimentary tract	A07	A07AB
+sulfasalazine	CID_5359476	A07EC01	A	A: Alimentary tract	A07	A07EC
+fenfluramine	CID_3337	A08AA02	A	A: Alimentary tract	A08	A08AA
+lorcaserin	CID_11658860	A08AA11	A	A: Alimentary tract	A08	A08AA
+mefenorex	CID_21777	A08AA09	A	A: Alimentary tract	A08	A08AA
+orlistat	CID_5284600	A08AB01	A	A: Alimentary tract	A08	A08AB
+rimonabant	CID_104850	A08AX01	A	A: Alimentary tract	A08	A08AX
+betaine hydrochloride	CID_11545	A09AB02	A	A: Alimentary tract	A09	A09AB
+citric acid	CID_311	A09AB04	A	A: Alimentary tract	A09	A09AB
+acarbose	CID_444254	A10BF01	A	A: Alimentary tract	A10	A10BF
+acetohexamide	CID_1989	A10BB31	A	A: Alimentary tract	A10	A10BB
+buformin	CID_2468	A10BA03	A	A: Alimentary tract	A10	A10BA
+carbutamide	CID_9564	A10BB06	A	A: Alimentary tract	A10	A10BB
+chlorpropamide	CID_2727	A10BB02	A	A: Alimentary tract	A10	A10BB
+gliclazide	CID_3475	A10BB09	A	A: Alimentary tract	A10	A10BB
+glimepiride	CID_3476	A10BB12	A	A: Alimentary tract	A10	A10BB
+glipizide	CID_3478	A10BB07	A	A: Alimentary tract	A10	A10BB
+gliquidone	CID_91610	A10BB08	A	A: Alimentary tract	A10	A10BB
+glisoxepide	CID_32778	A10BB11	A	A: Alimentary tract	A10	A10BB
+metformin	CID_4091	A10BA02	A	A: Alimentary tract	A10	A10BA
+metformin	CID_14219	A10BA02	A	A: Alimentary tract	A10	A10BA
+miglitol	CID_441314	A10BF02	A	A: Alimentary tract	A10	A10BF
+nateglinide	CID_5311309	A10BX03	A	A: Alimentary tract	A10	A10BX
+repaglinide	CID_65981	A10BX02	A	A: Alimentary tract	A10	A10BX
+rosiglitazone	CID_77999	A10BG02	A	A: Alimentary tract	A10	A10BG
+saxagliptin	CID_11243969	A10BH03	A	A: Alimentary tract	A10	A10BH
+tolazamide	CID_5503	A10BB05	A	A: Alimentary tract	A10	A10BB
+tolbutamide	CID_5505	A10BB03	A	A: Alimentary tract	A10	A10BB
+tolrestat	CID_53359	A10XA01	A	A: Alimentary tract	A10	A10XA
+troglitazone	CID_5591	A10BG01	A	A: Alimentary tract	A10	A10BG
+voglibose	CID_444020	A10BF03	A	A: Alimentary tract	A10	A10BF
+alfacalcidol	CID_5284515	A11CC03	A	A: Alimentary tract	A11	A11CC
+benfotiamine	CID_2320	A11DA03	A	A: Alimentary tract	A11	A11DA
+biotin	CID_171548	A11HA05	A	A: Alimentary tract	A11	A11HA
+calcifediol	CID_5283731	A11CC06	A	A: Alimentary tract	A11	A11CC
+calcitriol	CID_5280453	A11CC04	A	A: Alimentary tract	A11	A11CC
+calcium pantothenate	CID_443753	A11HA31	A	A: Alimentary tract	A11	A11HA
+dexpanthenol	CID_131204	A11HA30	A	A: Alimentary tract	A11	A11HA
+dihydrotachysterol	CID_5311071	A11CC02	A	A: Alimentary tract	A11	A11CC
+ergocalciferol	CID_5280793	A11CC01	A	A: Alimentary tract	A11	A11CC
+pantethine	CID_4677	A11HA32	A	A: Alimentary tract	A11	A11HA
+calcium chloride	CID_5284359	A12AA07	A	A: Alimentary tract	A12	A12AA
+calcium lactate	CID_13144	A12AA05	A	A: Alimentary tract	A12	A12AA
+sodium selenite	CID_24934	A12CE02	A	A: Alimentary tract	A12	A12CE
+ethylestrenol	CID_13765	A14AB02	A	A: Alimentary tract	A14	A14AB
+nandrolone	CID_9904	A14AB01	A	A: Alimentary tract	A14	A14AB
+oxymetholone	CID_5281034	A14AA05	A	A: Alimentary tract	A14	A14AA
+stanozolol	CID_25249	A14AA02	A	A: Alimentary tract	A14	A14AA
+anethole trithione	CID_2194	A16AX02	A	A: Alimentary tract	A16	A16AX
+betaine	CID_247	A16AA06	A	A: Alimentary tract	A16	A16AA
+betaine	CID_11545	A16AA06	A	A: Alimentary tract	A16	A16AA
+miglustat	CID_51634	A16AX06	A	A: Alimentary tract	A16	A16AX
+sodium benzoate	CID_517055	A16AX11	A	A: Alimentary tract	A16	A16AX
+zinc acetate	CID_11192	A16AX05	A	A: Alimentary tract	A16	A16AX
+acenocoumarol	CID_54676537	B01AA07	B	B: Blood	B01	B01AA
+argatroban	CID_152951	B01AE03	B	B: Blood	B01	B01AE
+cilostazol	CID_2754	B01AC23	B	B: Blood	B01	B01AC
+clorindione	CID_70846	B01AA09	B	B: Blood	B01	B01AA
+dipyridamole	CID_3108	B01AC07	B	B: Blood	B01	B01AC
+eptifibatide	CID_448812	B01AC16	B	B: Blood	B01	B01AC
+ethyl biscoumacetate	CID_54685524	B01AA08	B	B: Blood	B01	B01AA
+fluindione	CID_68942	B01AA12	B	B: Blood	B01	B01AA
+iloprost	CID_6435378	B01AC11	B	B: Blood	B01	B01AC
+indobufen	CID_107641	B01AC10	B	B: Blood	B01	B01AC
+phenindione	CID_4760	B01AA02	B	B: Blood	B01	B01AA
+prasugrel	CID_10158453	B01AC22	B	B: Blood	B01	B01AC
+rivaroxaban	CID_6433119	B01AF01	B	B: Blood	B01	B01AF
+triflusal	CID_9458	B01AC18	B	B: Blood	B01	B01AC
+warfarin	CID_54678486	B01AA03	B	B: Blood	B01	B01AA
+ximelagatran	CID_9574101	B01AE05	B	B: Blood	B01	B01AE
+aminocaproic acid	CID_564	B02AA01	B	B: Blood	B02	B02AA
+camostat	CID_5284360	B02AB04	B	B: Blood	B02	B02AB
+carbazochrome	CID_5360410	B02BX02	B	B: Blood	B02	B02BX
+epinephrine	CID_5816	B02BC09	B	B: Blood	B02	B02BC
+menadione	CID_4055	B02BA02	B	B: Blood	B02	B02BA
+tranexamic acid	CID_5526	B02AA02	B	B: Blood	B02	B02AA
+folic acid	CID_6037	B03BB01	B	B: Blood	B03	B03BB
+mecobalamin	CID_60196341	B03BA05	B	B: Blood	B03	B03BA
+calcium chloride	CID_5284359	B05XA07	B	B: Blood	B05	B05XA
+chlorhexidine	CID_9552079	B05CA02	B	B: Blood	B05	B05CA
+glycine	CID_750	B05CX03	B	B: Blood	B05	B05CX
+lysine	CID_5962	B05XB03	B	B: Blood	B05	B05XB
+mannitol	CID_11850	B05BC01	B	B: Blood	B05	B05BC
+mannitol	CID_11850	B05CX04	B	B: Blood	B05	B05CX
+potassium acetate	CID_517044	B05XA17	B	B: Blood	B05	B05XA
+sodium acetate	CID_517045	B05XA08	B	B: Blood	B05	B05XA
+sulfamethizole	CID_5328	B05CA04	B	B: Blood	B05	B05CA
+zinc chloride	CID_5727	B05XA12	B	B: Blood	B05	B05XA
+acadesine	CID_17513	C01EB13	C	C: Cardiovascular	C01	C01EB
+adenosine	CID_60961	C01EB10	C	C: Cardiovascular	C01	C01EB
+ajmaline	CID_441080	C01BA05	C	C: Cardiovascular	C01	C01BA
+alprostadil	CID_5280723	C01EA01	C	C: Cardiovascular	C01	C01EA
+amrinone	CID_3698	C01CE01	C	C: Cardiovascular	C01	C01CE
+benziodarone	CID_6237	C01DX04	C	C: Cardiovascular	C01	C01DX
+bucladesine	CID_9687	C01CE04	C	C: Cardiovascular	C01	C01CE
+deslanoside	CID_28620	C01AA07	C	C: Cardiovascular	C01	C01AA
+digitoxin	CID_441207	C01AA04	C	C: Cardiovascular	C01	C01AA
+digoxin	CID_2724385	C01AA05	C	C: Cardiovascular	C01	C01AA
+dilazep	CID_3074	C01DX10	C	C: Cardiovascular	C01	C01DX
+disopyramide	CID_3114	C01BA03	C	C: Cardiovascular	C01	C01BA
+dobutamine	CID_36811	C01CA07	C	C: Cardiovascular	C01	C01CA
+dofetilide	CID_71329	C01BD04	C	C: Cardiovascular	C01	C01BD
+dopexamine	CID_55483	C01CA14	C	C: Cardiovascular	C01	C01CA
+droxidopa	CID_6999030	C01CA27	C	C: Cardiovascular	C01	C01CA
+efloxate	CID_8395	C01DX13	C	C: Cardiovascular	C01	C01DX
+enoximone	CID_53708	C01CE03	C	C: Cardiovascular	C01	C01CE
+epinephrine	CID_5816	C01CA24	C	C: Cardiovascular	C01	C01CA
+etafenone	CID_3275	C01DX07	C	C: Cardiovascular	C01	C01DX
+fenoldopam	CID_3341	C01CA19	C	C: Cardiovascular	C01	C01CA
+flosequinan	CID_4474062	C01DB01	C	C: Cardiovascular	C01	C01DB
+ibuprofen	CID_3672	C01EB16	C	C: Cardiovascular	C01	C01EB
+isosorbide dinitrate	CID_6883	C01DA08	C	C: Cardiovascular	C01	C01DA
+lanatoside c	CID_656630	C01AA06	C	C: Cardiovascular	C01	C01AA
+levosimendan	CID_3033825	C01CX08	C	C: Cardiovascular	C01	C01CX
+lidocaine	CID_3676	C01BB01	C	C: Cardiovascular	C01	C01BB
+milrinone	CID_4197	C01CE02	C	C: Cardiovascular	C01	C01CE
+molsidomine	CID_5353788	C01DX12	C	C: Cardiovascular	C01	C01DX
+nicorandil	CID_47528	C01DX16	C	C: Cardiovascular	C01	C01DX
+norepinephrine	CID_439260	C01CA03	C	C: Cardiovascular	C01	C01CA
+octopamine	CID_4581	C01CA18	C	C: Cardiovascular	C01	C01CA
+procainamide	CID_4913	C01BA02	C	C: Cardiovascular	C01	C01BA
+proscillaridin	CID_5284613	C01AB01	C	C: Cardiovascular	C01	C01AB
+quinidine	CID_5953	C01BA01	C	C: Cardiovascular	C01	C01BA
+ranolazine	CID_56959	C01EB18	C	C: Cardiovascular	C01	C01EB
+sparteine	CID_644020	C01BA04	C	C: Cardiovascular	C01	C01BA
+tiracizine	CID_71264	C01EB11	C	C: Cardiovascular	C01	C01EB
+trapidil	CID_5531	C01DX11	C	C: Cardiovascular	C01	C01DX
+trolnitrate	CID_11499	C01DA09	C	C: Cardiovascular	C01	C01DA
+ubidecarenone	CID_5281915	C01EB09	C	C: Cardiovascular	C01	C01EB
+xamoterol	CID_155774	C01CX07	C	C: Cardiovascular	C01	C01CX
+ambrisentan	CID_6918493	C02KX02	C	C: Cardiovascular	C02	C02KX
+bosentan	CID_104865	C02KX01	C	C: Cardiovascular	C02	C02KX
+cadralazine	CID_2515	C02DB04	C	C: Cardiovascular	C02	C02DB
+clonidine	CID_2803	C02AC01	C	C: Cardiovascular	C02	C02AC
+deserpidine	CID_8550	C02AA05	C	C: Cardiovascular	C02	C02AA
+diazoxide	CID_3019	C02DA01	C	C: Cardiovascular	C02	C02DA
+dihydralazine	CID_10230	C02DB01	C	C: Cardiovascular	C02	C02DB
+guanoxan	CID_16564	C02CC03	C	C: Cardiovascular	C02	C02CC
+ketanserin	CID_3822	C02KD01	C	C: Cardiovascular	C02	C02KD
+mecamylamine	CID_4032	C02BB01	C	C: Cardiovascular	C02	C02BB
+minoxidil	CID_4201	C02DC01	C	C: Cardiovascular	C02	C02DC
+prazosin	CID_4893	C02CA01	C	C: Cardiovascular	C02	C02CA
+rescinnamine	CID_32681	C02AA01	C	C: Cardiovascular	C02	C02AA
+reserpine	CID_5770	C02AA02	C	C: Cardiovascular	C02	C02AA
+rilmenidine	CID_68712	C02AC06	C	C: Cardiovascular	C02	C02AC
+sitaxentan	CID_216235	C02KX03	C	C: Cardiovascular	C02	C02KX
+urapidil	CID_5639	C02CA06	C	C: Cardiovascular	C02	C02CA
+bendroflumethiazide	CID_2315	C03AA01	C	C: Cardiovascular	C03	C03AA
+bumetanide	CID_2471	C03CA02	C	C: Cardiovascular	C03	C03CA
+canrenone	CID_13789	C03DA03	C	C: Cardiovascular	C03	C03DA
+chlorothiazide	CID_2720	C03AA04	C	C: Cardiovascular	C03	C03AA
+clofenamide	CID_69594	C03BA07	C	C: Cardiovascular	C03	C03BA
+clopamide	CID_2804	C03BA03	C	C: Cardiovascular	C03	C03BA
+cyclopenthiazide	CID_2904	C03AA07	C	C: Cardiovascular	C03	C03AA
+cyclothiazide	CID_2910	C03AA09	C	C: Cardiovascular	C03	C03AA
+eplerenone	CID_443872	C03DA04	C	C: Cardiovascular	C03	C03DA
+furosemide	CID_3440	C03CA01	C	C: Cardiovascular	C03	C03CA
+hydrochlorothiazide	CID_3639	C03AA03	C	C: Cardiovascular	C03	C03AA
+hydroflumethiazide	CID_3647	C03AA02	C	C: Cardiovascular	C03	C03AA
+indapamide	CID_3702	C03BA11	C	C: Cardiovascular	C03	C03BA
+mefruside	CID_4047	C03BA05	C	C: Cardiovascular	C03	C03BA
+methyclothiazide	CID_4121	C03AA08	C	C: Cardiovascular	C03	C03AA
+meticrane	CID_4165	C03BA09	C	C: Cardiovascular	C03	C03BA
+metolazone	CID_4170	C03BA08	C	C: Cardiovascular	C03	C03BA
+piretanide	CID_4849	C03CA03	C	C: Cardiovascular	C03	C03CA
+polythiazide	CID_4870	C03AA05	C	C: Cardiovascular	C03	C03AA
+quinethazone	CID_6307	C03BA02	C	C: Cardiovascular	C03	C03BA
+spironolactone	CID_5833	C03DA01	C	C: Cardiovascular	C03	C03DA
+theobromine	CID_5429	C03BD01	C	C: Cardiovascular	C03	C03BD
+tolvaptan	CID_216237	C03XA01	C	C: Cardiovascular	C03	C03XA
+triamterene	CID_5546	C03DB02	C	C: Cardiovascular	C03	C03DB
+trichlormethiazide	CID_5560	C03AA06	C	C: Cardiovascular	C03	C03AA
+xipamide	CID_26618	C03BA10	C	C: Cardiovascular	C03	C03BA
+bamethan	CID_2292	C04AA31	C	C: Cardiovascular	C04	C04AA
+bencyclane	CID_2312	C04AX11	C	C: Cardiovascular	C04	C04AX
+cyclandelate	CID_2893	C04AX01	C	C: Cardiovascular	C04	C04AX
+dihydroergocristine	CID_107715	C04AE04	C	C: Cardiovascular	C04	C04AE
+ifenprodil	CID_3689	C04AX28	C	C: Cardiovascular	C04	C04AX
+nicergoline	CID_34040	C04AE02	C	C: Cardiovascular	C04	C04AE
+nicotinic acid	CID_938	C04AC01	C	C: Cardiovascular	C04	C04AC
+nicotinyl alcohol	CID_7510	C04AC02	C	C: Cardiovascular	C04	C04AC
+pentifylline	CID_70569	C04AD01	C	C: Cardiovascular	C04	C04AD
+pentoxifylline	CID_4740	C04AD03	C	C: Cardiovascular	C04	C04AD
+vincamine	CID_15376	C04AX07	C	C: Cardiovascular	C04	C04AX
+benzocaine	CID_2337	C05AD03	C	C: Cardiovascular	C05	C05AD
+betamethasone	CID_9782	C05AA05	C	C: Cardiovascular	C05	C05AA
+dexamethasone	CID_9782	C05AA09	C	C: Cardiovascular	C05	C05AA
+dexamethasone	CID_5743	C05AA09	C	C: Cardiovascular	C05	C05AA
+diosmin	CID_5281613	C05CA03	C	C: Cardiovascular	C05	C05CA
+fluocinolone acetonide	CID_6215	C05AA10	C	C: Cardiovascular	C05	C05AA
+fluocinonide	CID_9642	C05AA11	C	C: Cardiovascular	C05	C05AA
+fluorometholone	CID_9878	C05AA06	C	C: Cardiovascular	C05	C05AA
+hydrocortisone	CID_5754	C05AA01	C	C: Cardiovascular	C05	C05AA
+isosorbide dinitrate	CID_6883	C05AE02	C	C: Cardiovascular	C05	C05AE
+lidocaine	CID_3676	C05AD01	C	C: Cardiovascular	C05	C05AD
+phenol	CID_996	C05BB05	C	C: Cardiovascular	C05	C05BB
+prednisolone	CID_5755	C05AA04	C	C: Cardiovascular	C05	C05AA
+triamcinolone	CID_31307	C05AA12	C	C: Cardiovascular	C05	C05AA
+tribenoside	CID_5284629	C05AX05	C	C: Cardiovascular	C05	C05AX
+tribenoside	CID_5284629	C05CX01	C	C: Cardiovascular	C05	C05CX
+troxerutin	CID_5486699	C05CA04	C	C: Cardiovascular	C05	C05CA
+alprenolol	CID_2119	C07AA01	C	C: Cardiovascular	C07	C07AA
+atenolol	CID_2249	C07AB03	C	C: Cardiovascular	C07	C07AB
+bopindolol	CID_44112	C07AA17	C	C: Cardiovascular	C07	C07AA
+bupranolol	CID_2475	C07AA19	C	C: Cardiovascular	C07	C07AA
+metoprolol	CID_4171	C07AB02	C	C: Cardiovascular	C07	C07AB
+nadolol	CID_39147	C07AA12	C	C: Cardiovascular	C07	C07AA
+pindolol	CID_4828	C07AA03	C	C: Cardiovascular	C07	C07AA
+practolol	CID_4883	C07AB01	C	C: Cardiovascular	C07	C07AB
+sotalol	CID_5253	C07AA07	C	C: Cardiovascular	C07	C07AA
+talinolol	CID_68770	C07AB13	C	C: Cardiovascular	C07	C07AB
+bepridil	CID_2351	C08EA02	C	C: Cardiovascular	C08	C08EA
+cilnidipine	CID_5282138	C08CA14	C	C: Cardiovascular	C08	C08CA
+clevidipine	CID_153994	C08CA16	C	C: Cardiovascular	C08	C08CA
+felodipine	CID_3333	C08CA02	C	C: Cardiovascular	C08	C08CA
+isradipine	CID_3784	C08CA03	C	C: Cardiovascular	C08	C08CA
+lacidipine	CID_5311217	C08CA09	C	C: Cardiovascular	C08	C08CA
+lidoflazine	CID_3926	C08EX01	C	C: Cardiovascular	C08	C08EX
+manidipine	CID_150762	C08CA11	C	C: Cardiovascular	C08	C08CA
+nicardipine	CID_4474	C08CA04	C	C: Cardiovascular	C08	C08CA
+nifedipine	CID_4485	C08CA05	C	C: Cardiovascular	C08	C08CA
+nilvadipine	CID_4494	C08CA10	C	C: Cardiovascular	C08	C08CA
+nimodipine	CID_4497	C08CA06	C	C: Cardiovascular	C08	C08CA
+nisoldipine	CID_4499	C08CA07	C	C: Cardiovascular	C08	C08CA
+nitrendipine	CID_4507	C08CA08	C	C: Cardiovascular	C08	C08CA
+perhexiline	CID_5284439	C08EX02	C	C: Cardiovascular	C08	C08EX
+verapamil	CID_2520	C08DA01	C	C: Cardiovascular	C08	C08DA
+benazepril	CID_5362123	C09AA07	C	C: Cardiovascular	C09	C09AA
+candesartan	CID_2541	C09CA06	C	C: Cardiovascular	C09	C09CA
+captopril	CID_44093	C09AA01	C	C: Cardiovascular	C09	C09AA
+cilazapril	CID_56330	C09AA08	C	C: Cardiovascular	C09	C09AA
+irbesartan	CID_3749	C09CA04	C	C: Cardiovascular	C09	C09CA
+losartan	CID_3961	C09CA01	C	C: Cardiovascular	C09	C09CA
+olmesartan medoxomil	CID_130881	C09CA08	C	C: Cardiovascular	C09	C09CA
+perindopril	CID_107807	C09AA04	C	C: Cardiovascular	C09	C09AA
+ramipril	CID_5362129	C09AA05	C	C: Cardiovascular	C09	C09AA
+telmisartan	CID_65999	C09CA07	C	C: Cardiovascular	C09	C09CA
+trandolapril	CID_5484727	C09AA10	C	C: Cardiovascular	C09	C09AA
+valsartan	CID_5284633	C09CA03	C	C: Cardiovascular	C09	C09CA
+zofenopril	CID_72179	C09AA15	C	C: Cardiovascular	C09	C09AA
+acipimox	CID_5310993	C10AD06	C	C: Cardiovascular	C10	C10AD
+atorvastatin	CID_60823	C10AA05	C	C: Cardiovascular	C10	C10AA
+bezafibrate	CID_39042	C10AB02	C	C: Cardiovascular	C10	C10AB
+ciprofibrate	CID_2763	C10AB08	C	C: Cardiovascular	C10	C10AB
+clofibrate	CID_2796	C10AB01	C	C: Cardiovascular	C10	C10AB
+ezetimibe	CID_150311	C10AX09	C	C: Cardiovascular	C10	C10AX
+fenofibrate	CID_3339	C10AB05	C	C: Cardiovascular	C10	C10AB
+fluvastatin	CID_23663976	C10AA04	C	C: Cardiovascular	C10	C10AA
+fluvastatin	CID_446155	C10AA04	C	C: Cardiovascular	C10	C10AA
+gemfibrozil	CID_3463	C10AB04	C	C: Cardiovascular	C10	C10AB
+lovastatin	CID_53232	C10AA02	C	C: Cardiovascular	C10	C10AA
+niceritrol	CID_4476	C10AD01	C	C: Cardiovascular	C10	C10AD
+nicofuranose	CID_25495	C10AD03	C	C: Cardiovascular	C10	C10AD
+nicotinic acid	CID_938	C10AD02	C	C: Cardiovascular	C10	C10AD
+nicotinyl alcohol	CID_7510	C10AD05	C	C: Cardiovascular	C10	C10AD
+probucol	CID_4912	C10AX02	C	C: Cardiovascular	C10	C10AX
+simvastatin	CID_54454	C10AA01	C	C: Cardiovascular	C10	C10AA
+bifonazole	CID_2378	D01AC10	D	D: Dermatological	D01	D01AC
+butenafine	CID_2484	D01AE23	D	D: Dermatological	D01	D01AE
+chlormidazole	CID_71821	D01AC04	D	D: Dermatological	D01	D01AC
+chlorphenesin	CID_7697	D01AE07	D	D: Dermatological	D01	D01AE
+ciclopirox	CID_38911	D01AE14	D	D: Dermatological	D01	D01AE
+clotrimazole	CID_2812	D01AC01	D	D: Dermatological	D01	D01AC
+fluconazole	CID_3365	D01AC15	D	D: Dermatological	D01	D01AC
+flucytosine	CID_3366	D01AE21	D	D: Dermatological	D01	D01AE
+griseofulvin	CID_441140	D01BA01	D	D: Dermatological	D01	D01BA
+griseofulvin	CID_441140	D01AA08	D	D: Dermatological	D01	D01AA
+haloprogin	CID_3561	D01AE11	D	D: Dermatological	D01	D01AE
+isoconazole	CID_3760	D01AC05	D	D: Dermatological	D01	D01AC
+ketoconazole	CID_456201	D01AC08	D	D: Dermatological	D01	D01AC
+luliconazole	CID_3003141	D01AC18	D	D: Dermatological	D01	D01AC
+mepartricin	CID_9941647	D01AA06	D	D: Dermatological	D01	D01AA
+miconazole	CID_4189	D01AC02	D	D: Dermatological	D01	D01AC
+natamycin	CID_5284447	D01AA02	D	D: Dermatological	D01	D01AA
+nystatin	CID_60196358	D01AA01	D	D: Dermatological	D01	D01AA
+omoconazole	CID_3033988	D01AC13	D	D: Dermatological	D01	D01AC
+pyrrolnitrin	CID_13916	D01AA07	D	D: Dermatological	D01	D01AA
+salicylic acid	CID_338	D01AE12	D	D: Dermatological	D01	D01AE
+sulbentine	CID_67686	D01AE09	D	D: Dermatological	D01	D01AE
+terbinafine	CID_1549008	D01AE15	D	D: Dermatological	D01	D01AE
+terbinafine	CID_1549008	D01BA02	D	D: Dermatological	D01	D01BA
+ticlatone	CID_6258	D01AE08	D	D: Dermatological	D01	D01AE
+tioconazole	CID_5482	D01AC07	D	D: Dermatological	D01	D01AC
+tolciclate	CID_5506	D01AE19	D	D: Dermatological	D01	D01AE
+tolnaftate	CID_5510	D01AE18	D	D: Dermatological	D01	D01AE
+octinoxate	CID_21630	D02BA02	D	D: Dermatological	D02	D02BA
+calcium pantothenate	CID_443753	D03AX04	D	D: Dermatological	D03	D03AX
+dexpanthenol	CID_131204	D03AX03	D	D: Dermatological	D03	D03AX
+enoxolone	CID_10114	D03AX10	D	D: Dermatological	D03	D03AX
+hyaluronic acid	CID_24728612	D03AX05	D	D: Dermatological	D03	D03AX
+sodium chlorite	CID_23668197	D03AX11	D	D: Dermatological	D03	D03AX
+bamipine	CID_72075	D04AA15	D	D: Dermatological	D04	D04AA
+benzocaine	CID_2337	D04AB04	D	D: Dermatological	D04	D04AB
+lidocaine	CID_3676	D04AB01	D	D: Dermatological	D04	D04AB
+promethazine	CID_4927	D04AA10	D	D: Dermatological	D04	D04AA
+thenalidine	CID_27901	D04AA03	D	D: Dermatological	D04	D04AA
+acitretin	CID_5284513	D05BB02	D	D: Dermatological	D05	D05BB
+calcitriol	CID_5280453	D05AX03	D	D: Dermatological	D05	D05AX
+etretinate	CID_5282375	D05BB01	D	D: Dermatological	D05	D05BB
+fumaric acid	CID_444972	D05AX01	D	D: Dermatological	D05	D05AX
+methoxsalen	CID_4114	D05AD02	D	D: Dermatological	D05	D05AD
+methoxsalen	CID_4114	D05BA02	D	D: Dermatological	D05	D05BA
+tazarotene	CID_5381	D05AX05	D	D: Dermatological	D05	D05AX
+aciclovir	CID_2022	D06BB03	D	D: Dermatological	D06	D06BB
+amikacin	CID_37768	D06AX12	D	D: Dermatological	D06	D06AX
+bacitracin	CID_60196264	D06AX05	D	D: Dermatological	D06	D06AX
+chloramphenicol	CID_5959	D06AX02	D	D: Dermatological	D06	D06AX
+docosanol	CID_12620	D06BB11	D	D: Dermatological	D06	D06BB
+edoxudine	CID_66377	D06BB09	D	D: Dermatological	D06	D06BB
+idoxuridine	CID_5905	D06BB01	D	D: Dermatological	D06	D06BB
+imiquimod	CID_57469	D06BB10	D	D: Dermatological	D06	D06BB
+inosine	CID_6021	D06BB05	D	D: Dermatological	D06	D06BB
+metronidazole	CID_4173	D06BX01	D	D: Dermatological	D06	D06BX
+mupirocin	CID_446596	D06AX09	D	D: Dermatological	D06	D06AX
+oxytetracycline	CID_54675779	D06AA03	D	D: Dermatological	D06	D06AA
+oxytetracycline	CID_54680782	D06AA03	D	D: Dermatological	D06	D06AA
+penciclovir	CID_4725	D06BB06	D	D: Dermatological	D06	D06BB
+rifaximin	CID_6436173	D06AX11	D	D: Dermatological	D06	D06AX
+sulfamerazine	CID_5325	D06BA06	D	D: Dermatological	D06	D06BA
+sulfamethizole	CID_5328	D06BA04	D	D: Dermatological	D06	D06BA
+sulfanilamide	CID_5333	D06BA05	D	D: Dermatological	D06	D06BA
+sulfathiazole	CID_5340	D06BA02	D	D: Dermatological	D06	D06BA
+tetracycline	CID_54675776	D06AA04	D	D: Dermatological	D06	D06AA
+tyrothricin	CID_60196278	D06AX08	D	D: Dermatological	D06	D06AX
+amcinonide	CID_443958	D07AC11	D	D: Dermatological	D07	D07AC
+betamethasone	CID_9782	D07AC01	D	D: Dermatological	D07	D07AC
+betamethasone	CID_9782	D07XC01	D	D: Dermatological	D07	D07XC
+budesonide	CID_40000	D07AC09	D	D: Dermatological	D07	D07AC
+clobetasol	CID_5311051	D07AD01	D	D: Dermatological	D07	D07AD
+desonide	CID_5311066	D07AB08	D	D: Dermatological	D07	D07AB
+desoximetasone	CID_5311067	D07XC02	D	D: Dermatological	D07	D07XC
+desoximetasone	CID_5311067	D07AC03	D	D: Dermatological	D07	D07AC
+dexamethasone	CID_9782	D07XB05	D	D: Dermatological	D07	D07XB
+dexamethasone	CID_9782	D07AB19	D	D: Dermatological	D07	D07AB
+dexamethasone	CID_5743	D07XB05	D	D: Dermatological	D07	D07XB
+dexamethasone	CID_5743	D07AB19	D	D: Dermatological	D07	D07AB
+difluprednate	CID_443936	D07AC19	D	D: Dermatological	D07	D07AC
+fluocinolone acetonide	CID_6215	D07AC04	D	D: Dermatological	D07	D07AC
+fluocinonide	CID_9642	D07AC08	D	D: Dermatological	D07	D07AC
+fluorometholone	CID_9878	D07XB04	D	D: Dermatological	D07	D07XB
+fluorometholone	CID_9878	D07AB06	D	D: Dermatological	D07	D07AB
+halcinonide	CID_443943	D07AD02	D	D: Dermatological	D07	D07AD
+hydrocortisone	CID_5754	D07AA02	D	D: Dermatological	D07	D07AA
+hydrocortisone	CID_5754	D07XA01	D	D: Dermatological	D07	D07XA
+hydrocortisone buteprate	CID_636398	D07AB11	D	D: Dermatological	D07	D07AB
+methylprednisolone	CID_6741	D07AA01	D	D: Dermatological	D07	D07AA
+prednicarbate	CID_6714002	D07AC18	D	D: Dermatological	D07	D07AC
+prednisolone	CID_5755	D07XA02	D	D: Dermatological	D07	D07XA
+prednisolone	CID_5755	D07AA03	D	D: Dermatological	D07	D07AA
+triamcinolone	CID_31307	D07AB09	D	D: Dermatological	D07	D07AB
+triamcinolone	CID_31307	D07XB02	D	D: Dermatological	D07	D07XB
+benzethonium chloride	CID_8478	D08AJ08	D	D: Dermatological	D08	D08AJ
+chlorhexidine	CID_9552079	D08AC02	D	D: Dermatological	D08	D08AC
+clioquinol	CID_2788	D08AH30	D	D: Dermatological	D08	D08AH
+didecyldimethylammonium chloride	CID_23558	D08AJ06	D	D: Dermatological	D08	D08AJ
+eosin	CID_11048	D08AX02	D	D: Dermatological	D08	D08AX
+ethanol	CID_702	D08AX08	D	D: Dermatological	D08	D08AX
+hexachlorophene	CID_3598	D08AE01	D	D: Dermatological	D08	D08AE
+iodine	CID_807	D08AG03	D	D: Dermatological	D08	D08AG
+isopropanol	CID_3776	D08AX05	D	D: Dermatological	D08	D08AX
+mercuric chloride	CID_5284416	D08AK03	D	D: Dermatological	D08	D08AK
+phenol	CID_996	D08AE03	D	D: Dermatological	D08	D08AE
+phenylmercuric borate	CID_16683761	D08AK02	D	D: Dermatological	D08	D08AK
+propamidine	CID_64949	D08AC03	D	D: Dermatological	D08	D08AC
+sodium hypochlorite	CID_23665760	D08AX07	D	D: Dermatological	D08	D08AX
+triclosan	CID_5564	D08AE04	D	D: Dermatological	D08	D08AE
+chlorhexidine	CID_9552079	D09AA12	D	D: Dermatological	D09	D09AA
+clioquinol	CID_2788	D09AA10	D	D: Dermatological	D09	D09AA
+iodoform	CID_6374	D09AA13	D	D: Dermatological	D09	D09AA
+triclosan	CID_5564	D09AA06	D	D: Dermatological	D09	D09AA
+adapalene	CID_60164	D10AD03	D	D: Dermatological	D10	D10AD
+benzoyl peroxide	CID_7187	D10AE01	D	D: Dermatological	D10	D10AE
+bithionol	CID_2406	D10AB01	D	D: Dermatological	D10	D10AB
+chloramphenicol	CID_5959	D10AF03	D	D: Dermatological	D10	D10AF
+dapsone	CID_2955	D10AX05	D	D: Dermatological	D10	D10AX
+dexamethasone	CID_9782	D10AA03	D	D: Dermatological	D10	D10AA
+dexamethasone	CID_5743	D10AA03	D	D: Dermatological	D10	D10AA
+erythromycin	CID_12560	D10AF02	D	D: Dermatological	D10	D10AF
+fluorometholone	CID_9878	D10AA01	D	D: Dermatological	D10	D10AA
+methylprednisolone	CID_6741	D10AA02	D	D: Dermatological	D10	D10AA
+minocycline	CID_54675783	D10AF07	D	D: Dermatological	D10	D10AF
+nadifloxacin	CID_4410	D10AF05	D	D: Dermatological	D10	D10AF
+resorcinol	CID_5054	D10AX02	D	D: Dermatological	D10	D10AX
+retinol	CID_445354	D10AD02	D	D: Dermatological	D10	D10AD
+sulfacetamide	CID_5320	D10AF06	D	D: Dermatological	D10	D10AF
+tioxolone	CID_72139	D10AB03	D	D: Dermatological	D10	D10AB
+brimonidine	CID_2435	D11AX21	D	D: Dermatological	D11	D11AX
+caffeine	CID_2519	D11AX26	D	D: Dermatological	D11	D11AX
+caffeine	CID_6241	D11AX26	D	D: Dermatological	D11	D11AX
+finasteride	CID_57363	D11AX10	D	D: Dermatological	D11	D11AX
+gamolenic acid	CID_5280933	D11AX02	D	D: Dermatological	D11	D11AX
+hydroquinone	CID_785	D11AX11	D	D: Dermatological	D11	D11AX
+minoxidil	CID_4201	D11AX01	D	D: Dermatological	D11	D11AX
+monobenzone	CID_7638	D11AX13	D	D: Dermatological	D11	D11AX
+oxaceprol	CID_65784	D11AX09	D	D: Dermatological	D11	D11AX
+pimecrolimus	CID_16051947	D11AH02	D	D: Dermatological	D11	D11AH
+tiratricol	CID_5803	D11AX08	D	D: Dermatological	D11	D11AX
+acetarsol	CID_1985	G01AB01	G	G: Genito-urinary	G01	G01AB
+acetic acid	CID_176	G01AD02	G	G: Genito-urinary	G01	G01AD
+amphotericin b	CID_5280965	G01AA03	G	G: Genito-urinary	G01	G01AA
+broxyquinoline	CID_2453	G01AC06	G	G: Genito-urinary	G01	G01AC
+chloramphenicol	CID_5959	G01AA05	G	G: Genito-urinary	G01	G01AA
+ciclopirox	CID_38911	G01AX12	G	G: Genito-urinary	G01	G01AX
+clioquinol	CID_2788	G01AC02	G	G: Genito-urinary	G01	G01AC
+clotrimazole	CID_2812	G01AF02	G	G: Genito-urinary	G01	G01AF
+furazolidone	CID_5323714	G01AX06	G	G: Genito-urinary	G01	G01AX
+hexetidine	CID_3607	G01AX16	G	G: Genito-urinary	G01	G01AX
+inosine	CID_6021	G01AX02	G	G: Genito-urinary	G01	G01AX
+isoconazole	CID_3760	G01AF07	G	G: Genito-urinary	G01	G01AF
+ketoconazole	CID_456201	G01AF11	G	G: Genito-urinary	G01	G01AF
+lactic acid	CID_612	G01AD01	G	G: Genito-urinary	G01	G01AD
+mepartricin	CID_9941647	G01AA09	G	G: Genito-urinary	G01	G01AA
+metronidazole	CID_4173	G01AF01	G	G: Genito-urinary	G01	G01AF
+miconazole	CID_4189	G01AF04	G	G: Genito-urinary	G01	G01AF
+natamycin	CID_5284447	G01AA02	G	G: Genito-urinary	G01	G01AA
+nystatin	CID_60196358	G01AA01	G	G: Genito-urinary	G01	G01AA
+omoconazole	CID_3033988	G01AF16	G	G: Genito-urinary	G01	G01AF
+ornidazole	CID_28061	G01AF06	G	G: Genito-urinary	G01	G01AF
+oxytetracycline	CID_54675779	G01AA07	G	G: Genito-urinary	G01	G01AA
+oxytetracycline	CID_54680782	G01AA07	G	G: Genito-urinary	G01	G01AA
+pentamycin	CID_60196306	G01AA11	G	G: Genito-urinary	G01	G01AA
+terconazole	CID_441383	G01AG02	G	G: Genito-urinary	G01	G01AG
+tioconazole	CID_5482	G01AF08	G	G: Genito-urinary	G01	G01AF
+atosiban	CID_5311010	G02CX01	G	G: Genito-urinary	G02	G02CX
+bromocriptine	CID_31101	G02CB01	G	G: Genito-urinary	G02	G02CB
+cabergoline	CID_54746	G02CB03	G	G: Genito-urinary	G02	G02CB
+dinoprost	CID_5280363	G02AD01	G	G: Genito-urinary	G02	G02AD
+ibuprofen	CID_3672	G02CC01	G	G: Genito-urinary	G02	G02CC
+metergoline	CID_28693	G02CB05	G	G: Genito-urinary	G02	G02CB
+misoprostol	CID_5282381	G02AD06	G	G: Genito-urinary	G02	G02AD
+naproxen	CID_156391	G02CC02	G	G: Genito-urinary	G02	G02CC
+sulprostone	CID_51668574	G02AD05	G	G: Genito-urinary	G02	G02AD
+terguride	CID_443951	G02CB06	G	G: Genito-urinary	G02	G02CB
+allylestrenol	CID_235905	G03DC01	G	G: Genito-urinary	G03	G03DC
+chlormadinone	CID_5284533	G03DB06	G	G: Genito-urinary	G03	G03DB
+chlorotrianisene	CID_11289	G03CA06	G	G: Genito-urinary	G03	G03CA
+cyclofenil	CID_2898	G03GB01	G	G: Genito-urinary	G03	G03GB
+cyproterone	CID_5284537	G03HA01	G	G: Genito-urinary	G03	G03HA
+danazol	CID_28417	G03XA01	G	G: Genito-urinary	G03	G03XA
+desogestrel	CID_40973	G03AC09	G	G: Genito-urinary	G03	G03AC
+dienestrol	CID_667476	G03CB01	G	G: Genito-urinary	G03	G03CB
+dienestrol	CID_667476	G03CC02	G	G: Genito-urinary	G03	G03CC
+diethylstilbestrol	CID_448537	G03CB02	G	G: Genito-urinary	G03	G03CB
+diethylstilbestrol	CID_448537	G03CC05	G	G: Genito-urinary	G03	G03CC
+diethylstilbestrol	CID_3054	G03CB02	G	G: Genito-urinary	G03	G03CB
+diethylstilbestrol	CID_3054	G03CC05	G	G: Genito-urinary	G03	G03CC
+drospirenone	CID_68873	G03AC10	G	G: Genito-urinary	G03	G03AC
+dydrogesterone	CID_9051	G03DB01	G	G: Genito-urinary	G03	G03DB
+estradiol	CID_5757	G03CA03	G	G: Genito-urinary	G03	G03CA
+estriol	CID_5756	G03CC06	G	G: Genito-urinary	G03	G03CC
+estriol	CID_5756	G03CA04	G	G: Genito-urinary	G03	G03CA
+estrone	CID_5870	G03CC04	G	G: Genito-urinary	G03	G03CC
+estrone	CID_5870	G03CA07	G	G: Genito-urinary	G03	G03CA
+ethinylestradiol	CID_5991	G03CA01	G	G: Genito-urinary	G03	G03CA
+ethisterone	CID_5284557	G03DC04	G	G: Genito-urinary	G03	G03DC
+etonogestrel	CID_6917715	G03AC08	G	G: Genito-urinary	G03	G03AC
+gestrinone	CID_27812	G03XA02	G	G: Genito-urinary	G03	G03XA
+levonorgestrel	CID_13109	G03AC03	G	G: Genito-urinary	G03	G03AC
+levonorgestrel	CID_13109	G03AD01	G	G: Genito-urinary	G03	G03AD
+lynestrenol	CID_5284486	G03DC03	G	G: Genito-urinary	G03	G03DC
+lynestrenol	CID_5284486	G03AC02	G	G: Genito-urinary	G03	G03AC
+medroxyprogesterone	CID_10631	G03DA02	G	G: Genito-urinary	G03	G03DA
+medroxyprogesterone	CID_10631	G03AC06	G	G: Genito-urinary	G03	G03AC
+mifepristone	CID_55245	G03XB01	G	G: Genito-urinary	G03	G03XB
+ormeloxifene	CID_35805	G03XC04	G	G: Genito-urinary	G03	G03XC
+progesterone	CID_5994	G03DA04	G	G: Genito-urinary	G03	G03DA
+promestriene	CID_71717	G03CA09	G	G: Genito-urinary	G03	G03CA
+raloxifene	CID_5035	G03XC01	G	G: Genito-urinary	G03	G03XC
+testosterone	CID_6013	G03BA03	G	G: Genito-urinary	G03	G03BA
+tibolone	CID_444008	G03CX01	G	G: Genito-urinary	G03	G03CX
+acetohydroxamic acid	CID_1990	G04BX03	G	G: Genito-urinary	G04	G04BX
+alprostadil	CID_5280723	G04BE01	G	G: Genito-urinary	G04	G04BE
+apomorphine	CID_6005	G04BE07	G	G: Genito-urinary	G04	G04BE
+calcium chloride	CID_5284359	G04BA03	G	G: Genito-urinary	G04	G04BA
+dapoxetine	CID_71353	G04BX14	G	G: Genito-urinary	G04	G04BX
+dimethyl sulfoxide	CID_679	G04BX13	G	G: Genito-urinary	G04	G04BX
+dutasteride	CID_6918296	G04CB02	G	G: Genito-urinary	G04	G04CB
+finasteride	CID_57363	G04CB01	G	G: Genito-urinary	G04	G04CB
+mepartricin	CID_9941647	G04CX03	G	G: Genito-urinary	G04	G04CX
+phenyl salicylate	CID_8361	G04BX12	G	G: Genito-urinary	G04	G04BX
+succinimide	CID_11439	G04BX10	G	G: Genito-urinary	G04	G04BX
+tadalafil	CID_110635	G04BE08	G	G: Genito-urinary	G04	G04BE
+tiopronin	CID_5483	G04BX16	G	G: Genito-urinary	G04	G04BX
+tolterodine	CID_443879	G04BD07	G	G: Genito-urinary	G04	G04BD
+vardenafil	CID_23581791	G04BE09	G	G: Genito-urinary	G04	G04BE
+yohimbine	CID_8969	G04BE04	G	G: Genito-urinary	G04	G04BE
+desmopressin	CID_16051933	H01BA02	H	H: Hormonal	H01	H01BA
+lypressin	CID_644076	H01BA03	H	H: Hormonal	H01	H01BA
+octreotide	CID_6400441	H01CB02	H	H: Hormonal	H01	H01CB
+somatostatin	CID_16161315	H01CB01	H	H: Hormonal	H01	H01CB
+terlipressin	CID_72081	H01BA04	H	H: Hormonal	H01	H01BA
+betamethasone	CID_9782	H02AB01	H	H: Hormonal	H02	H02AB
+cortisone	CID_222786	H02AB10	H	H: Hormonal	H02	H02AB
+deflazacort	CID_189821	H02AB13	H	H: Hormonal	H02	H02AB
+dexamethasone	CID_9782	H02AB02	H	H: Hormonal	H02	H02AB
+dexamethasone	CID_5743	H02AB02	H	H: Hormonal	H02	H02AB
+fludrocortisone	CID_31378	H02AA02	H	H: Hormonal	H02	H02AA
+hydrocortisone	CID_5754	H02AB09	H	H: Hormonal	H02	H02AB
+ketoconazole	CID_456201	H02CA03	H	H: Hormonal	H02	H02CA
+meprednisone	CID_5284587	H02AB15	H	H: Hormonal	H02	H02AB
+methylprednisolone	CID_6741	H02AB04	H	H: Hormonal	H02	H02AB
+prednisolone	CID_5755	H02AB06	H	H: Hormonal	H02	H02AB
+prednisone	CID_5865	H02AB07	H	H: Hormonal	H02	H02AB
+rimexolone	CID_16051942	H02AB12	H	H: Hormonal	H02	H02AB
+triamcinolone	CID_31307	H02AB08	H	H: Hormonal	H02	H02AB
+trilostane	CID_656583	H02CA01	H	H: Hormonal	H02	H02CA
+carbimazole	CID_31072	H03BB01	H	H: Hormonal	H03	H03BB
+potassium perchlorate	CID_516900	H03BC01	H	H: Hormonal	H03	H03BC
+propylthiouracil	CID_657298	H03BA02	H	H: Hormonal	H03	H03BA
+tiratricol	CID_5803	H03AA04	H	H: Hormonal	H03	H03AA
+calcifediol	CID_5283731	H05BX05	H	H: Hormonal	H05	H05BX
+doxercalciferol	CID_5281107	H05BX03	H	H: Hormonal	H05	H05BX
+paricalcitol	CID_5281104	H05BX02	H	H: Hormonal	H05	H05BX
+amikacin	CID_37768	J01GB06	J	J: Antiinfectives	J01	J01GB
+amoxicillin	CID_33613	J01CA04	J	J: Antiinfectives	J01	J01CA
+ampicillin	CID_6249	J01CA01	J	J: Antiinfectives	J01	J01CA
+aspoxicillin	CID_71961	J01CA19	J	J: Antiinfectives	J01	J01CA
+azithromycin	CID_447043	J01FA10	J	J: Antiinfectives	J01	J01FA
+aztreonam	CID_54117	J01DF01	J	J: Antiinfectives	J01	J01DF
+bacitracin	CID_60196264	J01XX10	J	J: Antiinfectives	J01	J01XX
+biapenem	CID_71339	J01DH05	J	J: Antiinfectives	J01	J01DH
+cefaclor	CID_51039	J01DC04	J	J: Antiinfectives	J01	J01DC
+cefadroxil	CID_47965	J01DB05	J	J: Antiinfectives	J01	J01DB
+cefatrizine	CID_6410758	J01DB07	J	J: Antiinfectives	J01	J01DB
+cefazolin	CID_33255	J01DB04	J	J: Antiinfectives	J01	J01DB
+cefdinir	CID_6398970	J01DD15	J	J: Antiinfectives	J01	J01DD
+cefixime	CID_54362	J01DD08	J	J: Antiinfectives	J01	J01DD
+ceforanide	CID_43507	J01DC11	J	J: Antiinfectives	J01	J01DC
+cefotetan	CID_53025	J01DC05	J	J: Antiinfectives	J01	J01DC
+cefoxitin	CID_441199	J01DC01	J	J: Antiinfectives	J01	J01DC
+cefroxadine	CID_5284529	J01DB11	J	J: Antiinfectives	J01	J01DB
+cefteram	CID_5464257	J01DD18	J	J: Antiinfectives	J01	J01DD
+ceftibuten	CID_5282242	J01DD14	J	J: Antiinfectives	J01	J01DD
+cefuroxime	CID_41375	J01DC02	J	J: Antiinfectives	J01	J01DC
+chloramphenicol	CID_5959	J01BA01	J	J: Antiinfectives	J01	J01BA
+cinoxacin	CID_2762	J01MB06	J	J: Antiinfectives	J01	J01MB
+ciprofloxacin	CID_62999	J01MA02	J	J: Antiinfectives	J01	J01MA
+clarithromycin	CID_5284534	J01FA09	J	J: Antiinfectives	J01	J01FA
+clofoctol	CID_2799	J01XX03	J	J: Antiinfectives	J01	J01XX
+dibekacin	CID_470999	J01GB09	J	J: Antiinfectives	J01	J01GB
+dirithromycin	CID_6917067	J01FA13	J	J: Antiinfectives	J01	J01FA
+doripenem	CID_73303	J01DH04	J	J: Antiinfectives	J01	J01DH
+doxycycline	CID_54685920	J01AA02	J	J: Antiinfectives	J01	J01AA
+enoxacin	CID_3229	J01MA04	J	J: Antiinfectives	J01	J01MA
+erythromycin	CID_12560	J01FA01	J	J: Antiinfectives	J01	J01FA
+fleroxacin	CID_3357	J01MA08	J	J: Antiinfectives	J01	J01MA
+flomoxef	CID_20056549	J01DC14	J	J: Antiinfectives	J01	J01DC
+flumequine	CID_3374	J01MB07	J	J: Antiinfectives	J01	J01MB
+gatifloxacin	CID_5379	J01MA16	J	J: Antiinfectives	J01	J01MA
+josamycin	CID_5284579	J01FA07	J	J: Antiinfectives	J01	J01FA
+linezolid	CID_441401	J01XX08	J	J: Antiinfectives	J01	J01XX
+lymecycline	CID_54688689	J01AA04	J	J: Antiinfectives	J01	J01AA
+meropenem	CID_441130	J01DH02	J	J: Antiinfectives	J01	J01DH
+methenamine	CID_4101	J01XX05	J	J: Antiinfectives	J01	J01XX
+metronidazole	CID_4173	J01XD01	J	J: Antiinfectives	J01	J01XD
+mezlocillin	CID_656511	J01CA10	J	J: Antiinfectives	J01	J01CA
+midecamycin	CID_5282169	J01FA03	J	J: Antiinfectives	J01	J01FA
+minocycline	CID_54675783	J01AA08	J	J: Antiinfectives	J01	J01AA
+nalidixic acid	CID_4421	J01MB02	J	J: Antiinfectives	J01	J01MB
+nitrofurantoin	CID_4509	J01XE01	J	J: Antiinfectives	J01	J01XE
+nitroxoline	CID_19910	J01XX07	J	J: Antiinfectives	J01	J01XX
+norfloxacin	CID_4539	J01MA06	J	J: Antiinfectives	J01	J01MA
+ofloxacin	CID_4583	J01MA01	J	J: Antiinfectives	J01	J01MA
+ornidazole	CID_28061	J01XD03	J	J: Antiinfectives	J01	J01XD
+oxolinic acid	CID_4628	J01MB05	J	J: Antiinfectives	J01	J01MB
+oxytetracycline	CID_54675779	J01AA06	J	J: Antiinfectives	J01	J01AA
+oxytetracycline	CID_54680782	J01AA06	J	J: Antiinfectives	J01	J01AA
+pazufloxacin	CID_65957	J01MA18	J	J: Antiinfectives	J01	J01MA
+pefloxacin	CID_119525	J01MA03	J	J: Antiinfectives	J01	J01MA
+pipemidic acid	CID_4831	J01MB04	J	J: Antiinfectives	J01	J01MB
+piromidic acid	CID_4855	J01MB03	J	J: Antiinfectives	J01	J01MB
+pivampicillin	CID_33478	J01CA02	J	J: Antiinfectives	J01	J01CA
+propicillin	CID_92879	J01CE03	J	J: Antiinfectives	J01	J01CE
+prulifloxacin	CID_65947	J01MA17	J	J: Antiinfectives	J01	J01MA
+rolitetracycline	CID_54680694	J01AA09	J	J: Antiinfectives	J01	J01AA
+roxithromycin	CID_444037	J01FA06	J	J: Antiinfectives	J01	J01FA
+sparfloxacin	CID_60464	J01MA09	J	J: Antiinfectives	J01	J01MA
+spiramycin	CID_5284619	J01FA02	J	J: Antiinfectives	J01	J01FA
+sulbactam	CID_130313	J01CG01	J	J: Antiinfectives	J01	J01CG
+sulfadiazine	CID_5215	J01EC02	J	J: Antiinfectives	J01	J01EC
+sulfadimethoxine	CID_5323	J01ED01	J	J: Antiinfectives	J01	J01ED
+sulfalene	CID_9047	J01ED02	J	J: Antiinfectives	J01	J01ED
+sulfamerazine	CID_5325	J01ED07	J	J: Antiinfectives	J01	J01ED
+sulfamethizole	CID_5328	J01EB02	J	J: Antiinfectives	J01	J01EB
+sulfamethoxazole	CID_5329	J01EC01	J	J: Antiinfectives	J01	J01EC
+sulfamethoxypyridazine	CID_5330	J01ED05	J	J: Antiinfectives	J01	J01ED
+sulfanilamide	CID_5333	J01EB06	J	J: Antiinfectives	J01	J01EB
+sulfaperin	CID_68933	J01ED06	J	J: Antiinfectives	J01	J01ED
+sulfaphenazole	CID_5335	J01ED08	J	J: Antiinfectives	J01	J01ED
+sulfapyridine	CID_5336	J01EB04	J	J: Antiinfectives	J01	J01EB
+sulfathiazole	CID_5340	J01EB07	J	J: Antiinfectives	J01	J01EB
+sulfathiourea	CID_3000579	J01EB08	J	J: Antiinfectives	J01	J01EB
+teicoplanin	CID_16129710	J01XA02	J	J: Antiinfectives	J01	J01XA
+telithromycin	CID_3002190	J01FA15	J	J: Antiinfectives	J01	J01FA
+temafloxacin	CID_60021	J01MA05	J	J: Antiinfectives	J01	J01MA
+tetracycline	CID_54675776	J01AA07	J	J: Antiinfectives	J01	J01AA
+thiamphenicol	CID_27200	J01BA02	J	J: Antiinfectives	J01	J01BA
+tigecycline	CID_54686904	J01AA12	J	J: Antiinfectives	J01	J01AA
+tinidazole	CID_5479	J01XD02	J	J: Antiinfectives	J01	J01XD
+tobramycin	CID_36294	J01GB01	J	J: Antiinfectives	J01	J01GB
+trimethoprim	CID_5578	J01EA01	J	J: Antiinfectives	J01	J01EA
+troleandomycin	CID_5284630	J01FA08	J	J: Antiinfectives	J01	J01FA
+amphotericin b	CID_5280965	J02AA01	J	J: Antiinfectives	J02	J02AA
+fluconazole	CID_3365	J02AC01	J	J: Antiinfectives	J02	J02AC
+flucytosine	CID_3366	J02AX01	J	J: Antiinfectives	J02	J02AX
+itraconazole	CID_55283	J02AC02	J	J: Antiinfectives	J02	J02AC
+ketoconazole	CID_456201	J02AB02	J	J: Antiinfectives	J02	J02AB
+miconazole	CID_4189	J02AB01	J	J: Antiinfectives	J02	J02AB
+posaconazole	CID_147912	J02AC04	J	J: Antiinfectives	J02	J02AC
+voriconazole	CID_71616	J02AC03	J	J: Antiinfectives	J02	J02AC
+clofazimine	CID_2794	J04BA01	J	J: Antiinfectives	J04	J04BA
+dapsone	CID_2955	J04BA02	J	J: Antiinfectives	J04	J04BA
+ethionamide	CID_2761171	J04AD03	J	J: Antiinfectives	J04	J04AD
+isoniazid	CID_3767	J04AC01	J	J: Antiinfectives	J04	J04AC
+protionamide	CID_666418	J04AD01	J	J: Antiinfectives	J04	J04AD
+pyrazinamide	CID_1046	J04AK01	J	J: Antiinfectives	J04	J04AK
+rifabutin	CID_6323490	J04AB04	J	J: Antiinfectives	J04	J04AB
+rifampicin	CID_5458213	J04AB02	J	J: Antiinfectives	J04	J04AB
+rifapentine	CID_6540548	J04AB05	J	J: Antiinfectives	J04	J04AB
+abacavir	CID_5742631	J05AF06	J	J: Antiinfectives	J05	J05AF
+aciclovir	CID_2022	J05AB01	J	J: Antiinfectives	J05	J05AB
+adefovir dipivoxil	CID_60871	J05AF08	J	J: Antiinfectives	J05	J05AF
+amprenavir	CID_10885665	J05AE05	J	J: Antiinfectives	J05	J05AE
+atazanavir	CID_148192	J05AE08	J	J: Antiinfectives	J05	J05AE
+brivudine	CID_446727	J05AB15	J	J: Antiinfectives	J05	J05AB
+cidofovir	CID_60613	J05AB12	J	J: Antiinfectives	J05	J05AB
+clevudine	CID_72327	J05AF12	J	J: Antiinfectives	J05	J05AF
+darunavir	CID_213039	J05AE10	J	J: Antiinfectives	J05	J05AE
+delavirdine	CID_5625	J05AG02	J	J: Antiinfectives	J05	J05AG
+efavirenz	CID_64139	J05AG03	J	J: Antiinfectives	J05	J05AG
+emtricitabine	CID_60877	J05AF09	J	J: Antiinfectives	J05	J05AF
+entecavir	CID_153941	J05AF10	J	J: Antiinfectives	J05	J05AF
+famciclovir	CID_3324	J05AB09	J	J: Antiinfectives	J05	J05AB
+ganciclovir	CID_3454	J05AB06	J	J: Antiinfectives	J05	J05AB
+idoxuridine	CID_5905	J05AB02	J	J: Antiinfectives	J05	J05AB
+lamivudine	CID_73339	J05AF05	J	J: Antiinfectives	J05	J05AF
+maraviroc	CID_60196353	J05AX09	J	J: Antiinfectives	J05	J05AX
+nevirapine	CID_4463	J05AG01	J	J: Antiinfectives	J05	J05AG
+penciclovir	CID_4725	J05AB13	J	J: Antiinfectives	J05	J05AB
+pleconaril	CID_1684	J05AX06	J	J: Antiinfectives	J05	J05AX
+raltegravir	CID_54671008	J05AJ01	J	J: Antiinfectives	J05	J05AJ
+ribavirin	CID_37542	J05AP01	J	J: Antiinfectives	J05	J05AP
+rimantadine	CID_15165	J05AC02	J	J: Antiinfectives	J05	J05AC
+ritonavir	CID_392622	J05AE03	J	J: Antiinfectives	J05	J05AE
+stavudine	CID_18283	J05AF04	J	J: Antiinfectives	J05	J05AF
+tilorone	CID_5475	J05AX19	J	J: Antiinfectives	J05	J05AX
+tipranavir	CID_54682461	J05AE09	J	J: Antiinfectives	J05	J05AE
+valaciclovir	CID_60772	J05AB11	J	J: Antiinfectives	J05	J05AB
+zanamivir	CID_60855	J05AH01	J	J: Antiinfectives	J05	J05AH
+altretamine	CID_2123	L01XX03	L	L: Antineoplastic	L01	L01XX
+amsacrine	CID_148673	L01XX01	L	L: Antineoplastic	L01	L01XX
+anagrelide	CID_60196296	L01XX35	L	L: Antineoplastic	L01	L01XX
+axitinib	CID_6450551	L01EK01	L	L: Antineoplastic	L01	L01EK
+bendamustine	CID_65628	L01AA09	L	L: Antineoplastic	L01	L01AA
+bexarotene	CID_82146	L01XF03	L	L: Antineoplastic	L01	L01XF
+bortezomib	CID_387447	L01XG01	L	L: Antineoplastic	L01	L01XG
+bosutinib	CID_46780884	L01EA04	L	L: Antineoplastic	L01	L01EA
+busulfan	CID_2478	L01AB01	L	L: Antineoplastic	L01	L01AB
+capecitabine	CID_60953	L01BC06	L	L: Antineoplastic	L01	L01BC
+carboplatin	CID_426756	L01XA02	L	L: Antineoplastic	L01	L01XA
+carboquone	CID_2569	L01AC03	L	L: Antineoplastic	L01	L01AC
+carfilzomib	CID_11556711	L01XG02	L	L: Antineoplastic	L01	L01XG
+carmofur	CID_2577	L01BC04	L	L: Antineoplastic	L01	L01BC
+carmustine	CID_2578	L01AD01	L	L: Antineoplastic	L01	L01AD
+celecoxib	CID_2662	L01XX33	L	L: Antineoplastic	L01	L01XX
+chlorambucil	CID_2708	L01AA02	L	L: Antineoplastic	L01	L01AA
+chlormethine	CID_5935	L01AA05	L	L: Antineoplastic	L01	L01AA
+cisplatin	CID_2767	L01XA01	L	L: Antineoplastic	L01	L01XA
+cladribine	CID_20279	L01BB04	L	L: Antineoplastic	L01	L01BB
+clofarabine	CID_119182	L01BB06	L	L: Antineoplastic	L01	L01BB
+cyclophosphamide	CID_22420	L01AA01	L	L: Antineoplastic	L01	L01AA
+cytarabine	CID_6253	L01BC01	L	L: Antineoplastic	L01	L01BC
+dacarbazine	CID_5281007	L01AX04	L	L: Antineoplastic	L01	L01AX
+dasatinib	CID_3062316	L01EA02	L	L: Antineoplastic	L01	L01EA
+daunorubicin	CID_30323	L01DB02	L	L: Antineoplastic	L01	L01DB
+decitabine	CID_451668	L01BC08	L	L: Antineoplastic	L01	L01BC
+demecolcine	CID_220401	L01CC01	L	L: Antineoplastic	L01	L01CC
+docetaxel	CID_148124	L01CD02	L	L: Antineoplastic	L01	L01CD
+erlotinib	CID_176870	L01EB02	L	L: Antineoplastic	L01	L01EB
+estramustine	CID_259331	L01XX11	L	L: Antineoplastic	L01	L01XX
+estramustine	CID_444000	L01XX11	L	L: Antineoplastic	L01	L01XX
+etoposide	CID_5284558	L01CB01	L	L: Antineoplastic	L01	L01CB
+everolimus	CID_6442177	L01EG02	L	L: Antineoplastic	L01	L01EG
+floxuridine	CID_5790	L01BC09	L	L: Antineoplastic	L01	L01BC
+fluorouracil	CID_3385	L01BC02	L	L: Antineoplastic	L01	L01BC
+gefitinib	CID_123631	L01EB01	L	L: Antineoplastic	L01	L01EB
+gemcitabine	CID_60749	L01BC05	L	L: Antineoplastic	L01	L01BC
+ifosfamide	CID_3690	L01AA06	L	L: Antineoplastic	L01	L01AA
+imatinib	CID_123596	L01EA01	L	L: Antineoplastic	L01	L01EA
+irinotecan	CID_74990	L01CE02	L	L: Antineoplastic	L01	L01CE
+lapatinib	CID_208908	L01EH01	L	L: Antineoplastic	L01	L01EH
+lomustine	CID_3950	L01AD02	L	L: Antineoplastic	L01	L01AD
+lonidamine	CID_39562	L01XX07	L	L: Antineoplastic	L01	L01XX
+masoprocol	CID_71398	L01XX10	L	L: Antineoplastic	L01	L01XX
+melphalan	CID_460612	L01AA03	L	L: Antineoplastic	L01	L01AA
+methotrexate	CID_126941	L01BA01	L	L: Antineoplastic	L01	L01BA
+mitotane	CID_4211	L01XX23	L	L: Antineoplastic	L01	L01XX
+mitoxantrone	CID_51082	L01DB07	L	L: Antineoplastic	L01	L01DB
+nelarabine	CID_3011155	L01BB07	L	L: Antineoplastic	L01	L01BB
+nimustine	CID_39214	L01AD06	L	L: Antineoplastic	L01	L01AD
+omacetaxine mepesuccinate	CID_45356872	L01XX40	L	L: Antineoplastic	L01	L01XX
+oxaliplatin	CID_9887053	L01XA03	L	L: Antineoplastic	L01	L01XA
+paclitaxel	CID_36314	L01CD01	L	L: Antineoplastic	L01	L01CD
+pazopanib	CID_10113978	L01EX03	L	L: Antineoplastic	L01	L01EX
+pentostatin	CID_439693	L01XX08	L	L: Antineoplastic	L01	L01XX
+pipobroman	CID_4842	L01AX02	L	L: Antineoplastic	L01	L01AX
+pirarubicin	CID_11296583	L01DB08	L	L: Antineoplastic	L01	L01DB
+plicamycin	CID_5284610	L01DC02	L	L: Antineoplastic	L01	L01DC
+pralatrexate	CID_148121	L01BA05	L	L: Antineoplastic	L01	L01BA
+procarbazine	CID_4915	L01XB01	L	L: Antineoplastic	L01	L01XB
+raltitrexed	CID_104758	L01BA03	L	L: Antineoplastic	L01	L01BA
+romidepsin	CID_56840936	L01XH02	L	L: Antineoplastic	L01	L01XH
+selumetinib	CID_10127622	L01EE04	L	L: Antineoplastic	L01	L01EE
+semustine	CID_5198	L01AD03	L	L: Antineoplastic	L01	L01AD
+sorafenib	CID_406563	L01EX02	L	L: Antineoplastic	L01	L01EX
+tegafur	CID_5386	L01BC03	L	L: Antineoplastic	L01	L01BC
+temoporfin	CID_60751	L01XD05	L	L: Antineoplastic	L01	L01XD
+temozolomide	CID_5394	L01AX03	L	L: Antineoplastic	L01	L01AX
+temsirolimus	CID_6918289	L01EG01	L	L: Antineoplastic	L01	L01EG
+teniposide	CID_5284623	L01CB02	L	L: Antineoplastic	L01	L01CB
+thiotepa	CID_5453	L01AC01	L	L: Antineoplastic	L01	L01AC
+tioguanine	CID_2723601	L01BB03	L	L: Antineoplastic	L01	L01BB
+trabectedin	CID_108150	L01CX01	L	L: Antineoplastic	L01	L01CX
+treosulfan	CID_9296	L01AB02	L	L: Antineoplastic	L01	L01AB
+valrubicin	CID_454216	L01DB09	L	L: Antineoplastic	L01	L01DB
+vandetanib	CID_3081361	L01EX04	L	L: Antineoplastic	L01	L01EX
+vincristine	CID_5978	L01CA02	L	L: Antineoplastic	L01	L01CA
+vinorelbine	CID_16051941	L01CA04	L	L: Antineoplastic	L01	L01CA
+aminoglutethimide	CID_2145	L02BG01	L	L: Antineoplastic	L02	L02BG
+anastrozole	CID_2187	L02BG03	L	L: Antineoplastic	L02	L02BG
+bicalutamide	CID_56069	L02BB03	L	L: Antineoplastic	L02	L02BB
+diethylstilbestrol	CID_448537	L02AA01	L	L: Antineoplastic	L02	L02AA
+diethylstilbestrol	CID_3054	L02AA01	L	L: Antineoplastic	L02	L02AA
+ethinylestradiol	CID_5991	L02AA03	L	L: Antineoplastic	L02	L02AA
+exemestane	CID_60198	L02BG06	L	L: Antineoplastic	L02	L02BG
+flutamide	CID_3397	L02BB01	L	L: Antineoplastic	L02	L02BB
+formestane	CID_11273	L02BG02	L	L: Antineoplastic	L02	L02BG
+fulvestrant	CID_104741	L02BA03	L	L: Antineoplastic	L02	L02BA
+letrozole	CID_3902	L02BG04	L	L: Antineoplastic	L02	L02BG
+medroxyprogesterone	CID_10631	L02AB02	L	L: Antineoplastic	L02	L02AB
+nilutamide	CID_4493	L02BB02	L	L: Antineoplastic	L02	L02BB
+tamoxifen	CID_2733525	L02BA01	L	L: Antineoplastic	L02	L02BA
+tamoxifen	CID_2733526	L02BA01	L	L: Antineoplastic	L02	L02BA
+cridanimod	CID_38072	L03AX18	L	L: Antineoplastic	L03	L03AX
+histamine dihydrochloride	CID_774	L03AX14	L	L: Antineoplastic	L03	L03AX
+pidotimod	CID_65944	L03AX05	L	L: Antineoplastic	L03	L03AX
+roquinimex	CID_54676478	L03AX02	L	L: Antineoplastic	L03	L03AX
+thymopentin	CID_451417	L03AX09	L	L: Antineoplastic	L03	L03AX
+azathioprine	CID_2265	L04AX01	L	L: Antineoplastic	L04	L04AX
+cladribine	CID_20279	L04AA40	L	L: Antineoplastic	L04	L04AA
+everolimus	CID_6442177	L04AA18	L	L: Antineoplastic	L04	L04AA
+leflunomide	CID_3899	L04AA13	L	L: Antineoplastic	L04	L04AA
+lenalidomide	CID_216326	L04AX04	L	L: Antineoplastic	L04	L04AX
+methotrexate	CID_126941	L04AX03	L	L: Antineoplastic	L04	L04AX
+muromonab-cd3	CID_NA	L04AA02	L	L: Antineoplastic	L04	L04AA
+mycophenolic acid	CID_446541	L04AA06	L	L: Antineoplastic	L04	L04AA
+pirfenidone	CID_40632	L04AX05	L	L: Antineoplastic	L04	L04AX
+sirolimus	CID_5284616	L04AA10	L	L: Antineoplastic	L04	L04AA
+thalidomide	CID_5426	L04AX02	L	L: Antineoplastic	L04	L04AX
+aceclofenac	CID_71771	M01AB16	M	M: Musculo-skeletal	M01	M01AB
+acemetacin	CID_1981	M01AB11	M	M: Musculo-skeletal	M01	M01AB
+alclofenac	CID_30951	M01AB06	M	M: Musculo-skeletal	M01	M01AB
+auranofin	CID_NA	M01CB03	M	M: Musculo-skeletal	M01	M01CB
+aurothioglucose	CID_454937	M01CB04	M	M: Musculo-skeletal	M01	M01CB
+azapropazone	CID_26098	M01AX04	M	M: Musculo-skeletal	M01	M01AX
+bucillamine	CID_656604	M01CC02	M	M: Musculo-skeletal	M01	M01CC
+bufexamac	CID_2466	M01AB17	M	M: Musculo-skeletal	M01	M01AB
+celecoxib	CID_2662	M01AH01	M	M: Musculo-skeletal	M01	M01AH
+dexibuprofen	CID_39912	M01AE14	M	M: Musculo-skeletal	M01	M01AE
+diacerein	CID_26248	M01AX21	M	M: Musculo-skeletal	M01	M01AX
+etodolac	CID_3308	M01AB08	M	M: Musculo-skeletal	M01	M01AB
+etoricoxib	CID_123619	M01AH05	M	M: Musculo-skeletal	M01	M01AH
+fenbufen	CID_3335	M01AE05	M	M: Musculo-skeletal	M01	M01AE
+fentiazac	CID_28871	M01AB10	M	M: Musculo-skeletal	M01	M01AB
+feprazone	CID_35455	M01AX18	M	M: Musculo-skeletal	M01	M01AX
+flufenamic acid	CID_3371	M01AG03	M	M: Musculo-skeletal	M01	M01AG
+flurbiprofen	CID_3394	M01AE09	M	M: Musculo-skeletal	M01	M01AE
+ibuprofen	CID_3672	M01AE01	M	M: Musculo-skeletal	M01	M01AE
+indoprofen	CID_3718	M01AE10	M	M: Musculo-skeletal	M01	M01AE
+ketoprofen	CID_3825	M01AE03	M	M: Musculo-skeletal	M01	M01AE
+ketorolac	CID_6604122	M01AB15	M	M: Musculo-skeletal	M01	M01AB
+lonazolac	CID_68706	M01AB09	M	M: Musculo-skeletal	M01	M01AB
+lornoxicam	CID_17756939	M01AC05	M	M: Musculo-skeletal	M01	M01AC
+lumiracoxib	CID_151166	M01AH06	M	M: Musculo-skeletal	M01	M01AH
+mefenamic acid	CID_4044	M01AG01	M	M: Musculo-skeletal	M01	M01AG
+meloxicam	CID_54677470	M01AC06	M	M: Musculo-skeletal	M01	M01AC
+morniflumate	CID_72106	M01AX22	M	M: Musculo-skeletal	M01	M01AX
+nabumetone	CID_4409	M01AX01	M	M: Musculo-skeletal	M01	M01AX
+naproxen	CID_156391	M01AE02	M	M: Musculo-skeletal	M01	M01AE
+niflumic acid	CID_4488	M01AX02	M	M: Musculo-skeletal	M01	M01AX
+nimesulide	CID_4495	M01AX17	M	M: Musculo-skeletal	M01	M01AX
+oxaceprol	CID_65784	M01AX24	M	M: Musculo-skeletal	M01	M01AX
+oxaprozin	CID_4614	M01AE12	M	M: Musculo-skeletal	M01	M01AE
+oxycinchophen	CID_10239	M01CA03	M	M: Musculo-skeletal	M01	M01CA
+oxyphenbutazone	CID_4641	M01AA03	M	M: Musculo-skeletal	M01	M01AA
+penicillamine	CID_5852	M01CC01	M	M: Musculo-skeletal	M01	M01CC
+phenylbutazone	CID_4781	M01AA01	M	M: Musculo-skeletal	M01	M01AA
+piroxicam	CID_54676228	M01AC01	M	M: Musculo-skeletal	M01	M01AC
+proglumetacin	CID_4921	M01AB14	M	M: Musculo-skeletal	M01	M01AB
+rofecoxib	CID_5090	M01AH02	M	M: Musculo-skeletal	M01	M01AH
+sulindac	CID_1548887	M01AB02	M	M: Musculo-skeletal	M01	M01AB
+suprofen	CID_5359	M01AE07	M	M: Musculo-skeletal	M01	M01AE
+tenidap	CID_54704052	M01AX23	M	M: Musculo-skeletal	M01	M01AX
+tenoxicam	CID_54677971	M01AC02	M	M: Musculo-skeletal	M01	M01AC
+tiaprofenic acid	CID_5468	M01AE11	M	M: Musculo-skeletal	M01	M01AE
+tolfenamic acid	CID_610479	M01AG02	M	M: Musculo-skeletal	M01	M01AG
+valdecoxib	CID_119607	M01AH03	M	M: Musculo-skeletal	M01	M01AH
+aceclofenac	CID_71771	M02AA25	M	M: Musculo-skeletal	M02	M02AA
+bufexamac	CID_2466	M02AA09	M	M: Musculo-skeletal	M02	M02AA
+capsaicin	CID_1548943	M02AB01	M	M: Musculo-skeletal	M02	M02AB
+dimethyl sulfoxide	CID_679	M02AX03	M	M: Musculo-skeletal	M02	M02AX
+etofenamate	CID_35375	M02AA06	M	M: Musculo-skeletal	M02	M02AA
+felbinac	CID_3332	M02AA08	M	M: Musculo-skeletal	M02	M02AA
+fentiazac	CID_28871	M02AA14	M	M: Musculo-skeletal	M02	M02AA
+feprazone	CID_35455	M02AA16	M	M: Musculo-skeletal	M02	M02AA
+flurbiprofen	CID_3394	M02AA19	M	M: Musculo-skeletal	M02	M02AA
+ibuprofen	CID_3672	M02AA13	M	M: Musculo-skeletal	M02	M02AA
+idrocilamide	CID_1550874	M02AX05	M	M: Musculo-skeletal	M02	M02AX
+ketoprofen	CID_3825	M02AA10	M	M: Musculo-skeletal	M02	M02AA
+naproxen	CID_156391	M02AA12	M	M: Musculo-skeletal	M02	M02AA
+nifenazone	CID_4487	M02AA24	M	M: Musculo-skeletal	M02	M02AA
+niflumic acid	CID_4488	M02AA17	M	M: Musculo-skeletal	M02	M02AA
+nimesulide	CID_4495	M02AA26	M	M: Musculo-skeletal	M02	M02AA
+oxyphenbutazone	CID_4641	M02AA04	M	M: Musculo-skeletal	M02	M02AA
+phenylbutazone	CID_4781	M02AA01	M	M: Musculo-skeletal	M02	M02AA
+piroxicam	CID_54676228	M02AA07	M	M: Musculo-skeletal	M02	M02AA
+suxibuzone	CID_5362	M02AA22	M	M: Musculo-skeletal	M02	M02AA
+baclofen	CID_2284	M03BX01	M	M: Musculo-skeletal	M03	M03BX
+carisoprodol	CID_2576	M03BA02	M	M: Musculo-skeletal	M03	M03BA
+chlormezanone	CID_2717	M03BB02	M	M: Musculo-skeletal	M03	M03BB
+chlorzoxazone	CID_2733	M03BB03	M	M: Musculo-skeletal	M03	M03BB
+mephenesin	CID_4059	M03BX06	M	M: Musculo-skeletal	M03	M03BX
+methocarbamol	CID_4107	M03BA03	M	M: Musculo-skeletal	M03	M03BA
+mivacurium chloride	CID_5281080	M03AC10	M	M: Musculo-skeletal	M03	M03AC
+phenprobamate	CID_4770	M03BA01	M	M: Musculo-skeletal	M03	M03BA
+pipecuronium bromide	CID_65332	M03AC06	M	M: Musculo-skeletal	M03	M03AC
+pridinol	CID_4904	M03BX03	M	M: Musculo-skeletal	M03	M03BX
+rocuronium bromide	CID_441351	M03AC09	M	M: Musculo-skeletal	M03	M03AC
+thiocolchicoside	CID_9915886	M03BX05	M	M: Musculo-skeletal	M03	M03BX
+allopurinol	CID_2094	M04AA01	M	M: Musculo-skeletal	M04	M04AA
+benzbromarone	CID_2333	M04AB03	M	M: Musculo-skeletal	M04	M04AB
+cinchophen	CID_8593	M04AC02	M	M: Musculo-skeletal	M04	M04AC
+colchicine	CID_6167	M04AC01	M	M: Musculo-skeletal	M04	M04AC
+febuxostat	CID_134018	M04AA03	M	M: Musculo-skeletal	M04	M04AA
+probenecid	CID_4911	M04AB01	M	M: Musculo-skeletal	M04	M04AB
+sulfinpyrazone	CID_5342	M04AB02	M	M: Musculo-skeletal	M04	M04AB
+etidronic acid	CID_3305	M05BA01	M	M: Musculo-skeletal	M05	M05BA
+ipriflavone	CID_3747	M05BX01	M	M: Musculo-skeletal	M05	M05BX
+pamidronic acid	CID_4674	M05BA03	M	M: Musculo-skeletal	M05	M05BA
+aceneuramic acid	CID_14017587	M09AX05	M	M: Musculo-skeletal	M09	M09AX
+hyaluronic acid	CID_24728612	M09AX01	M	M: Musculo-skeletal	M09	M09AX
+anileridine	CID_8944	N01AH05	N	N: Nervous	N01	N01AH
+benzocaine	CID_2337	N01BA05	N	N: Nervous	N01	N01BA
+capsaicin	CID_1548943	N01BX04	N	N: Nervous	N01	N01BX
+chloroform	CID_6212	N01AB02	N	N: Nervous	N01	N01AB
+enflurane	CID_3226	N01AB04	N	N: Nervous	N01	N01AB
+etidocaine	CID_37497	N01BB07	N	N: Nervous	N01	N01BB
+etomidate	CID_36339	N01AX07	N	N: Nervous	N01	N01AX
+fentanyl	CID_3345	N01AH01	N	N: Nervous	N01	N01AH
+halothane	CID_3562	N01AB01	N	N: Nervous	N01	N01AB
+hexobarbital	CID_3608	N01AF02	N	N: Nervous	N01	N01AF
+isoflurane	CID_3763	N01AB06	N	N: Nervous	N01	N01AB
+ketamine	CID_3821	N01AX03	N	N: Nervous	N01	N01AX
+lidocaine	CID_3676	N01BB02	N	N: Nervous	N01	N01BB
+phenol	CID_996	N01BX03	N	N: Nervous	N01	N01BX
+propanidid	CID_15004	N01AX04	N	N: Nervous	N01	N01AX
+propofol	CID_4943	N01AX10	N	N: Nervous	N01	N01AX
+sevoflurane	CID_5206	N01AB08	N	N: Nervous	N01	N01AB
+trichloroethylene	CID_6575	N01AB05	N	N: Nervous	N01	N01AB
+almotriptan	CID_123606	N02CC05	N	N: Nervous	N02	N02CC
+clonidine	CID_2803	N02CX02	N	N: Nervous	N02	N02CX
+diflunisal	CID_3059	N02BA11	N	N: Nervous	N02	N02BA
+dihydroergotamine	CID_10531	N02CA01	N	N: Nervous	N02	N02CA
+dipyrocetyl	CID_68093	N02BA09	N	N: Nervous	N02	N02BA
+eletriptan	CID_77993	N02CC06	N	N: Nervous	N02	N02CC
+fentanyl	CID_3345	N02AB03	N	N: Nervous	N02	N02AB
+floctafenine	CID_3360	N02BG04	N	N: Nervous	N02	N02BG
+methoxyflurane	CID_4116	N02BG09	N	N: Nervous	N02	N02BG
+methysergide	CID_9681	N02CA04	N	N: Nervous	N02	N02CA
+nalbuphine	CID_5311304	N02AF02	N	N: Nervous	N02	N02AF
+nifenazone	CID_4487	N02BB05	N	N: Nervous	N02	N02BB
+phenacetin	CID_4754	N02BE03	N	N: Nervous	N02	N02BE
+phenazone	CID_2206	N02BB01	N	N: Nervous	N02	N02BB
+pizotifen	CID_27400	N02CX01	N	N: Nervous	N02	N02CX
+propacetamol	CID_68865	N02BE05	N	N: Nervous	N02	N02BE
+propyphenazone	CID_3778	N02BB04	N	N: Nervous	N02	N02BB
+rizatriptan	CID_5078	N02CC04	N	N: Nervous	N02	N02CC
+salicylamide	CID_5147	N02BA05	N	N: Nervous	N02	N02BA
+salsalate	CID_5161	N02BA06	N	N: Nervous	N02	N02BA
+sodium salicylate	CID_16760658	N02BA04	N	N: Nervous	N02	N02BA
+sumatriptan	CID_5358	N02CC01	N	N: Nervous	N02	N02CC
+zolmitriptan	CID_60857	N02CC03	N	N: Nervous	N02	N02CC
+beclamide	CID_10391	N03AX30	N	N: Nervous	N03	N03AX
+carbamazepine	CID_2554	N03AF01	N	N: Nervous	N03	N03AF
+ethosuximide	CID_3291	N03AD01	N	N: Nervous	N03	N03AD
+ethotoin	CID_3292	N03AB01	N	N: Nervous	N03	N03AB
+felbamate	CID_3331	N03AX10	N	N: Nervous	N03	N03AX
+fenfluramine	CID_3337	N03AX26	N	N: Nervous	N03	N03AX
+fosphenytoin	CID_56339	N03AB05	N	N: Nervous	N03	N03AB
+gabapentin	CID_3446	N03AX12	N	N: Nervous	N03	N03AX
+lacosamide	CID_219078	N03AX18	N	N: Nervous	N03	N03AX
+lamotrigine	CID_3878	N03AX09	N	N: Nervous	N03	N03AX
+levetiracetam	CID_59708	N03AX14	N	N: Nervous	N03	N03AX
+metharbital	CID_4099	N03AA30	N	N: Nervous	N03	N03AA
+oxcarbazepine	CID_34312	N03AF02	N	N: Nervous	N03	N03AF
+phenacemide	CID_4753	N03AX07	N	N: Nervous	N03	N03AX
+phenobarbital	CID_4763	N03AA02	N	N: Nervous	N03	N03AA
+phensuximide	CID_6839	N03AD02	N	N: Nervous	N03	N03AD
+pregabalin	CID_5486971	N03AX16	N	N: Nervous	N03	N03AX
+primidone	CID_4909	N03AA03	N	N: Nervous	N03	N03AA
+rufinamide	CID_129228	N03AF03	N	N: Nervous	N03	N03AF
+stiripentol	CID_5311454	N03AX17	N	N: Nervous	N03	N03AX
+topiramate	CID_5284627	N03AX11	N	N: Nervous	N03	N03AX
+trimethadione	CID_5576	N03AC02	N	N: Nervous	N03	N03AC
+valproic acid	CID_3121	N03AG01	N	N: Nervous	N03	N03AG
+valpromide	CID_71113	N03AG02	N	N: Nervous	N03	N03AG
+vigabatrin	CID_5665	N03AG04	N	N: Nervous	N03	N03AG
+zonisamide	CID_5734	N03AX15	N	N: Nervous	N03	N03AX
+apomorphine	CID_6005	N04BC07	N	N: Nervous	N04	N04BC
+biperiden	CID_92151	N04AA02	N	N: Nervous	N04	N04AA
+bromocriptine	CID_31101	N04BC01	N	N: Nervous	N04	N04BC
+cabergoline	CID_54746	N04BC06	N	N: Nervous	N04	N04BC
+entacapone	CID_5281081	N04BX02	N	N: Nervous	N04	N04BX
+levodopa	CID_6047	N04BA01	N	N: Nervous	N04	N04BA
+mazaticol	CID_4019	N04AA10	N	N: Nervous	N04	N04AA
+piribedil	CID_4850	N04BC08	N	N: Nervous	N04	N04BC
+ropinirole	CID_5095	N04BC04	N	N: Nervous	N04	N04BC
+rotigotine	CID_59227	N04BC09	N	N: Nervous	N04	N04BC
+tolcapone	CID_4659569	N04BX01	N	N: Nervous	N04	N04BX
+alprazolam	CID_2118	N05BA12	N	N: Nervous	N05	N05BA
+amisulpride	CID_2159	N05AL05	N	N: Nervous	N05	N05AL
+amobarbital	CID_2164	N05CA02	N	N: Nervous	N05	N05CA
+aripiprazole	CID_60795	N05AX12	N	N: Nervous	N05	N05AX
+asenapine	CID_3036780	N05AH05	N	N: Nervous	N05	N05AH
+barbital	CID_2294	N05CA04	N	N: Nervous	N05	N05CA
+benperidol	CID_16363	N05AD07	N	N: Nervous	N05	N05AD
+bromperidol	CID_2448	N05AD06	N	N: Nervous	N05	N05AD
+brotizolam	CID_2451	N05CD09	N	N: Nervous	N05	N05CD
+buspirone	CID_2477	N05BE01	N	N: Nervous	N05	N05BE
+carbromal	CID_6488	N05CM04	N	N: Nervous	N05	N05CM
+chloral hydrate	CID_2707	N05CC01	N	N: Nervous	N05	N05CC
+chlordiazepoxide	CID_2712	N05BA02	N	N: Nervous	N05	N05BA
+chlorpromazine	CID_2726	N05AA01	N	N: Nervous	N05	N05AA
+chlorprothixene	CID_667466	N05AF03	N	N: Nervous	N05	N05AF
+clobazam	CID_2789	N05BA09	N	N: Nervous	N05	N05BA
+clomethiazole	CID_10783	N05CM02	N	N: Nervous	N05	N05CM
+cloxazolam	CID_2816	N05BA22	N	N: Nervous	N05	N05BA
+clozapine	CID_2818	N05AH02	N	N: Nervous	N05	N05AH
+diazepam	CID_3016	N05BA01	N	N: Nervous	N05	N05BA
+droperidol	CID_3168	N05AD08	N	N: Nervous	N05	N05AD
+estazolam	CID_3261	N05CD04	N	N: Nervous	N05	N05CD
+eszopiclone	CID_969472	N05CF04	N	N: Nervous	N05	N05CF
+ethchlorvynol	CID_5284556	N05CM08	N	N: Nervous	N05	N05CM
+etizolam	CID_3307	N05BA19	N	N: Nervous	N05	N05BA
+fluanisone	CID_15139	N05AD09	N	N: Nervous	N05	N05AD
+flurazepam	CID_3393	N05CD01	N	N: Nervous	N05	N05CD
+fluspirilene	CID_3396	N05AG01	N	N: Nervous	N05	N05AG
+glutethimide	CID_3487	N05CE01	N	N: Nervous	N05	N05CE
+haloperidol	CID_3559	N05AD01	N	N: Nervous	N05	N05AD
+hexobarbital	CID_3608	N05CA16	N	N: Nervous	N05	N05CA
+hydroxyzine	CID_3658	N05BB01	N	N: Nervous	N05	N05BB
+iloperidone	CID_71360	N05AX14	N	N: Nervous	N05	N05AX
+levosulpiride	CID_688272	N05AL07	N	N: Nervous	N05	N05AL
+lorazepam	CID_3958	N05BA06	N	N: Nervous	N05	N05BA
+mebutamate	CID_6151	N05BC04	N	N: Nervous	N05	N05BC
+medazepam	CID_4041	N05BA03	N	N: Nervous	N05	N05BA
+melatonin	CID_896	N05CH01	N	N: Nervous	N05	N05CH
+mephenoxalone	CID_6257	N05BX01	N	N: Nervous	N05	N05BX
+meprobamate	CID_4064	N05BC01	N	N: Nervous	N05	N05BC
+mesoridazine	CID_4078	N05AC03	N	N: Nervous	N05	N05AC
+methaqualone	CID_6292	N05CM01	N	N: Nervous	N05	N05CM
+moperone	CID_60196367	N05AD04	N	N: Nervous	N05	N05AD
+mosapramine	CID_4257	N05AX10	N	N: Nervous	N05	N05AX
+nimetazepam	CID_4496	N05CD15	N	N: Nervous	N05	N05CD
+nitrazepam	CID_4506	N05CD02	N	N: Nervous	N05	N05CD
+olanzapine	CID_4585	N05AH03	N	N: Nervous	N05	N05AH
+oxazepam	CID_4616	N05BA04	N	N: Nervous	N05	N05BA
+paliperidone	CID_9802545	N05AX13	N	N: Nervous	N05	N05AX
+paraldehyde	CID_31264	N05CC05	N	N: Nervous	N05	N05CC
+penfluridol	CID_33630	N05AG03	N	N: Nervous	N05	N05AG
+pentobarbital	CID_4737	N05CA01	N	N: Nervous	N05	N05CA
+perazine	CID_4744	N05AB10	N	N: Nervous	N05	N05AB
+periciazine	CID_4747	N05AC01	N	N: Nervous	N05	N05AC
+perphenazine	CID_4748	N05AB03	N	N: Nervous	N05	N05AB
+pimozide	CID_16362	N05AG02	N	N: Nervous	N05	N05AG
+prazepam	CID_4890	N05BA11	N	N: Nervous	N05	N05BA
+pyrithyldione	CID_4994	N05CE03	N	N: Nervous	N05	N05CE
+quetiapine	CID_5002	N05AH04	N	N: Nervous	N05	N05AH
+ramelteon	CID_9881626	N05CH02	N	N: Nervous	N05	N05CH
+remoxipride	CID_54477	N05AL04	N	N: Nervous	N05	N05AL
+risperidone	CID_5073	N05AX08	N	N: Nervous	N05	N05AX
+sertindole	CID_60149	N05AE03	N	N: Nervous	N05	N05AE
+talbutal	CID_8275	N05CA07	N	N: Nervous	N05	N05CA
+temazepam	CID_5391	N05CD07	N	N: Nervous	N05	N05CD
+thioridazine	CID_5452	N05AC02	N	N: Nervous	N05	N05AC
+tofisopam	CID_5502	N05BA23	N	N: Nervous	N05	N05BA
+triazolam	CID_5556	N05CD05	N	N: Nervous	N05	N05CD
+veralipride	CID_47979	N05AL06	N	N: Nervous	N05	N05AL
+zaleplon	CID_5719	N05CF03	N	N: Nervous	N05	N05CF
+ziprasidone	CID_60854	N05AE04	N	N: Nervous	N05	N05AE
+zolpidem	CID_5732	N05CF02	N	N: Nervous	N05	N05CF
+zotepine	CID_5736	N05AX11	N	N: Nervous	N05	N05AX
+adrafinil	CID_3033226	N06BX17	N	N: Nervous	N06	N06BX
+agomelatine	CID_82148	N06AX22	N	N: Nervous	N06	N06AX
+alaproclate	CID_2081	N06AB07	N	N: Nervous	N06	N06AB
+amineptine	CID_34870	N06AA19	N	N: Nervous	N06	N06AA
+amoxapine	CID_2170	N06AA17	N	N: Nervous	N06	N06AA
+aniracetam	CID_2196	N06BX11	N	N: Nervous	N06	N06BX
+bifemelane	CID_2377	N06AX08	N	N: Nervous	N06	N06AX
+butriptyline	CID_21772	N06AA15	N	N: Nervous	N06	N06AA
+caffeine	CID_2519	N06BC01	N	N: Nervous	N06	N06BC
+caffeine	CID_6241	N06BC01	N	N: Nervous	N06	N06BC
+dimetacrine	CID_94280	N06AA18	N	N: Nervous	N06	N06AA
+fluvoxamine	CID_5324346	N06AB08	N	N: Nervous	N06	N06AB
+idebenone	CID_3686	N06BX13	N	N: Nervous	N06	N06BX
+imipramine	CID_3696	N06AA02	N	N: Nervous	N06	N06AA
+isocarboxazid	CID_3759	N06AF01	N	N: Nervous	N06	N06AF
+linopirdine	CID_3932	N06BX09	N	N: Nervous	N06	N06BX
+mianserin	CID_4184	N06AX03	N	N: Nervous	N06	N06AX
+mirtazapine	CID_4205	N06AX11	N	N: Nervous	N06	N06AX
+moclobemide	CID_4235	N06AG02	N	N: Nervous	N06	N06AG
+modafinil	CID_4236	N06BA07	N	N: Nervous	N06	N06BA
+nialamide	CID_4472	N06AF02	N	N: Nervous	N06	N06AF
+nizofenone	CID_4514	N06BX10	N	N: Nervous	N06	N06BX
+nomifensine	CID_4528	N06AX04	N	N: Nervous	N06	N06AX
+oxiracetam	CID_4626	N06BX07	N	N: Nervous	N06	N06BX
+paroxetine	CID_43815	N06AB05	N	N: Nervous	N06	N06AB
+pemoline	CID_4723	N06BA05	N	N: Nervous	N06	N06BA
+phenelzine	CID_61100	N06AF03	N	N: Nervous	N06	N06AF
+piracetam	CID_4843	N06BX03	N	N: Nervous	N06	N06BX
+pivagabine	CID_68888	N06AX15	N	N: Nervous	N06	N06AX
+propentofylline	CID_4938	N06BC02	N	N: Nervous	N06	N06BC
+tacrine	CID_1935	N06DA01	N	N: Nervous	N06	N06DA
+venlafaxine	CID_5656	N06AX16	N	N: Nervous	N06	N06AX
+vinpocetine	CID_443955	N06BX18	N	N: Nervous	N06	N06BX
+bethanechol	CID_11548	N07AB02	N	N: Nervous	N07	N07AB
+carbachol	CID_5831	N07AB01	N	N: Nervous	N07	N07AB
+cinnarizine	CID_1547484	N07CA02	N	N: Nervous	N07	N07CA
+disulfiram	CID_3117	N07BB01	N	N: Nervous	N07	N07BB
+edaravone	CID_4021	N07XX14	N	N: Nervous	N07	N07XX
+flunarizine	CID_941361	N07CA03	N	N: Nervous	N07	N07CA
+lofexidine	CID_30668	N07BC04	N	N: Nervous	N07	N07BC
+nalmefene	CID_5284594	N07BB05	N	N: Nervous	N07	N07BB
+naltrexone	CID_5360515	N07BB04	N	N: Nervous	N07	N07BB
+nicotine	CID_89594	N07BA01	N	N: Nervous	N07	N07BA
+pilocarpine	CID_5910	N07AX01	N	N: Nervous	N07	N07AX
+riluzole	CID_5070	N07XX02	N	N: Nervous	N07	N07XX
+tetrabenazine	CID_6018	N07XX06	N	N: Nervous	N07	N07XX
+acetarsol	CID_1985	P01CD02	P	P: Antiparasitic	P01	P01CD
+artemether	CID_20054835	P01BE02	P	P: Antiparasitic	P01	P01BE
+artemisinin	CID_5458876	P01BE01	P	P: Antiparasitic	P01	P01BE
+artemotil	CID_72416	P01BE04	P	P: Antiparasitic	P01	P01BE
+artenimol	CID_107770	P01BE05	P	P: Antiparasitic	P01	P01BE
+artesunate	CID_60196289	P01BE03	P	P: Antiparasitic	P01	P01BE
+atovaquone	CID_74989	P01AX06	P	P: Antiparasitic	P01	P01AX
+benznidazole	CID_31593	P01CA02	P	P: Antiparasitic	P01	P01CA
+broxyquinoline	CID_2453	P01AA01	P	P: Antiparasitic	P01	P01AA
+chloroquine	CID_64927	P01BA01	P	P: Antiparasitic	P01	P01BA
+clioquinol	CID_2788	P01AA02	P	P: Antiparasitic	P01	P01AA
+emetine	CID_10219	P01AX02	P	P: Antiparasitic	P01	P01AX
+fumagillin	CID_6917655	P01AX10	P	P: Antiparasitic	P01	P01AX
+halofantrine	CID_37392	P01BX01	P	P: Antiparasitic	P01	P01BX
+metronidazole	CID_4173	P01AB01	P	P: Antiparasitic	P01	P01AB
+miltefosine	CID_3599	P01CX04	P	P: Antiparasitic	P01	P01CX
+nifurtimox	CID_31772	P01CC01	P	P: Antiparasitic	P01	P01CC
+nimorazole	CID_23009	P01AB06	P	P: Antiparasitic	P01	P01AB
+nitazoxanide	CID_41684	P01AX11	P	P: Antiparasitic	P01	P01AX
+ornidazole	CID_28061	P01AB03	P	P: Antiparasitic	P01	P01AB
+pentamidine isethionate	CID_8813	P01CX01	P	P: Antiparasitic	P01	P01CX
+phanquinone	CID_6764	P01AX04	P	P: Antiparasitic	P01	P01AX
+pyrimethamine	CID_4993	P01BD01	P	P: Antiparasitic	P01	P01BD
+quinine	CID_8549	P01BC01	P	P: Antiparasitic	P01	P01BC
+secnidazole	CID_71815	P01AB07	P	P: Antiparasitic	P01	P01AB
+suramin sodium	CID_5361	P01CX02	P	P: Antiparasitic	P01	P01CX
+tenonitrozole	CID_19646	P01AX08	P	P: Antiparasitic	P01	P01AX
+tinidazole	CID_5479	P01AB02	P	P: Antiparasitic	P01	P01AB
+trimetrexate	CID_45006154	P01AX07	P	P: Antiparasitic	P01	P01AX
+albendazole	CID_2082	P02CA03	P	P: Antiparasitic	P02	P02CA
+bithionol	CID_2406	P02BX01	P	P: Antiparasitic	P02	P02BX
+dichlorophen	CID_3037	P02DX02	P	P: Antiparasitic	P02	P02DX
+fenbendazole	CID_3334	P02CA06	P	P: Antiparasitic	P02	P02CA
+mebendazole	CID_4030	P02CA01	P	P: Antiparasitic	P02	P02CA
+moxidectin	CID_16760141	P02CX03	P	P: Antiparasitic	P02	P02CX
+niclosamide	CID_4477	P02DA01	P	P: Antiparasitic	P02	P02DA
+niridazole	CID_6093	P02BX02	P	P: Antiparasitic	P02	P02BX
+oxamniquine	CID_4612	P02BA02	P	P: Antiparasitic	P02	P02BA
+piperazine	CID_4837	P02CB01	P	P: Antiparasitic	P02	P02CB
+praziquantel	CID_4891	P02BA01	P	P: Antiparasitic	P02	P02BA
+triclabendazole	CID_50248	P02BX04	P	P: Antiparasitic	P02	P02BX
+benzyl alcohol	CID_244	P03AX06	P	P: Antiparasitic	P03	P03AX
+benzyl benzoate	CID_2345	P03AX01	P	P: Antiparasitic	P03	P03AX
+cyfluthrin	CID_104926	P03BA01	P	P: Antiparasitic	P03	P03BA
+cypermethrin	CID_2912	P03BA02	P	P: Antiparasitic	P03	P03BA
+disulfiram	CID_3117	P03AA04	P	P: Antiparasitic	P03	P03AA
+lindane	CID_727	P03AB02	P	P: Antiparasitic	P03	P03AB
+malathion	CID_4004	P03AX03	P	P: Antiparasitic	P03	P03AX
+permethrin	CID_40326	P03AC04	P	P: Antiparasitic	P03	P03AC
+phenothrin	CID_4767	P03AC03	P	P: Antiparasitic	P03	P03AC
+tetramethrin	CID_83975	P03BA04	P	P: Antiparasitic	P03	P03BA
+thiram	CID_5455	P03AA05	P	P: Antiparasitic	P03	P03AA
+betamethasone	CID_9782	R01AD06	R	R: Respiratory	R01	R01AD
+budesonide	CID_40000	R01AD05	R	R: Respiratory	R01	R01AD
+ciclesonide	CID_6918155	R01AD13	R	R: Respiratory	R01	R01AD
+dexamethasone	CID_9782	R01AD03	R	R: Respiratory	R01	R01AD
+dexamethasone	CID_5743	R01AD03	R	R: Respiratory	R01	R01AD
+epinephrine	CID_5816	R01AA14	R	R: Respiratory	R01	R01AA
+flunisolide	CID_82153	R01AD04	R	R: Respiratory	R01	R01AD
+hyaluronic acid	CID_24728612	R01AX09	R	R: Respiratory	R01	R01AX
+mupirocin	CID_446596	R01AX06	R	R: Respiratory	R01	R01AX
+naphazoline	CID_610682	R01AA08	R	R: Respiratory	R01	R01AA
+naphazoline	CID_610682	R01AB02	R	R: Respiratory	R01	R01AB
+nedocromil	CID_50294	R01AC07	R	R: Respiratory	R01	R01AC
+prednisolone	CID_5755	R01AD02	R	R: Respiratory	R01	R01AD
+retinol	CID_445354	R01AX02	R	R: Respiratory	R01	R01AX
+triamcinolone	CID_31307	R01AD11	R	R: Respiratory	R01	R01AD
+ambazone	CID_1549158	R02AA01	R	R: Respiratory	R02	R02AA
+bacitracin	CID_60196264	R02AB04	R	R: Respiratory	R02	R02AB
+benzocaine	CID_2337	R02AD01	R	R: Respiratory	R02	R02AD
+chlorhexidine	CID_9552079	R02AA05	R	R: Respiratory	R02	R02AA
+flurbiprofen	CID_3394	R02AX01	R	R: Respiratory	R02	R02AX
+ibuprofen	CID_3672	R02AX02	R	R: Respiratory	R02	R02AX
+lidocaine	CID_3676	R02AD02	R	R: Respiratory	R02	R02AD
+phenol	CID_996	R02AA19	R	R: Respiratory	R02	R02AA
+tyrothricin	CID_60196278	R02AB02	R	R: Respiratory	R02	R02AB
+amlexanox	CID_2161	R03DX01	R	R: Respiratory	R03	R03DX
+betamethasone	CID_9782	R03BA04	R	R: Respiratory	R03	R03BA
+bitolterol	CID_35330	R03AC17	R	R: Respiratory	R03	R03AC
+budesonide	CID_40000	R03BA02	R	R: Respiratory	R03	R03BA
+ciclesonide	CID_6918155	R03BA08	R	R: Respiratory	R03	R03BA
+clenbuterol	CID_2783	R03CC13	R	R: Respiratory	R03	R03CC
+clenbuterol	CID_2783	R03AC14	R	R: Respiratory	R03	R03AC
+doxofylline	CID_50942	R03DA11	R	R: Respiratory	R03	R03DA
+epinephrine	CID_5816	R03AA01	R	R: Respiratory	R03	R03AA
+flunisolide	CID_82153	R03BA03	R	R: Respiratory	R03	R03BA
+ibudilast	CID_3671	R03DC04	R	R: Respiratory	R03	R03DC
+methoxyphenamine	CID_4117	R03CB02	R	R: Respiratory	R03	R03CB
+nedocromil	CID_50294	R03BC03	R	R: Respiratory	R03	R03BC
+procaterol	CID_688561	R03AC16	R	R: Respiratory	R03	R03AC
+procaterol	CID_688561	R03CC08	R	R: Respiratory	R03	R03CC
+proxyphylline	CID_4977	R03DA03	R	R: Respiratory	R03	R03DA
+salmeterol	CID_5152	R03AC12	R	R: Respiratory	R03	R03AC
+seratrodast	CID_2449	R03DX06	R	R: Respiratory	R03	R03DX
+theobromine	CID_5429	R03DA07	R	R: Respiratory	R03	R03DA
+theophylline	CID_2153	R03DA04	R	R: Respiratory	R03	R03DA
+tiotropium bromide	CID_5487426	R03BB04	R	R: Respiratory	R03	R03BB
+triamcinolone	CID_31307	R03BA06	R	R: Respiratory	R03	R03BA
+zafirlukast	CID_5717	R03DC01	R	R: Respiratory	R03	R03DC
+acetylcysteine	CID_12035	R05CB01	R	R: Respiratory	R05	R05CB
+benzonatate	CID_7699	R05DB01	R	R: Respiratory	R05	R05DB
+codeine	CID_5284371	R05DA04	R	R: Respiratory	R05	R05DA
+dropropizine	CID_3169	R05DB19	R	R: Respiratory	R05	R05DB
+erdosteine	CID_65632	R05CB15	R	R: Respiratory	R05	R05CB
+ethylmorphine	CID_5359271	R05DA01	R	R: Respiratory	R05	R05DA
+guaifenesin	CID_3516	R05CA03	R	R: Respiratory	R05	R05CA
+isoaminile	CID_6481	R05DB04	R	R: Respiratory	R05	R05DB
+mannitol	CID_11850	R05CB16	R	R: Respiratory	R05	R05CB
+mesna	CID_23662354	R05CB05	R	R: Respiratory	R05	R05CB
+normethadone	CID_10090	R05DA06	R	R: Respiratory	R05	R05DA
+noscapine	CID_275196	R05DA07	R	R: Respiratory	R05	R05DA
+potassium iodide	CID_4875	R05CA02	R	R: Respiratory	R05	R05CA
+tipepidine	CID_5484	R05DB24	R	R: Respiratory	R05	R05DB
+acrivastine	CID_5284514	R06AX18	R	R: Respiratory	R06	R06AX
+astemizole	CID_2247	R06AX11	R	R: Respiratory	R06	R06AX
+azatadine	CID_19861	R06AX09	R	R: Respiratory	R06	R06AX
+bamipine	CID_72075	R06AX01	R	R: Respiratory	R06	R06AX
+bilastine	CID_185460	R06AX29	R	R: Respiratory	R06	R06AX
+desloratadine	CID_124087	R06AX27	R	R: Respiratory	R06	R06AX
+ebastine	CID_3191	R06AX22	R	R: Respiratory	R06	R06AX
+ketotifen	CID_3827	R06AX17	R	R: Respiratory	R06	R06AX
+loratadine	CID_3957	R06AX13	R	R: Respiratory	R06	R06AX
+mequitazine	CID_4066	R06AD07	R	R: Respiratory	R06	R06AD
+mizolastine	CID_65906	R06AX25	R	R: Respiratory	R06	R06AX
+oxatomide	CID_4615	R06AE06	R	R: Respiratory	R06	R06AE
+promethazine	CID_4927	R06AD02	R	R: Respiratory	R06	R06AD
+quifenadine	CID_65600	R06AX31	R	R: Respiratory	R06	R06AX
+terfenadine	CID_5405	R06AX12	R	R: Respiratory	R06	R06AX
+thenalidine	CID_27901	R06AX03	R	R: Respiratory	R06	R06AX
+triprolidine	CID_5282443	R06AX07	R	R: Respiratory	R06	R06AX
+bemegride	CID_2310	R07AB05	R	R: Respiratory	R07	R07AB
+colfosceril palmitate	CID_452110	R07AA01	R	R: Respiratory	R07	R07AA
+aceclidine	CID_1979	S01EB08	S	S: Sensory	S01	S01EB
+acetazolamide	CID_1986	S01EC01	S	S: Sensory	S01	S01EC
+acetylcysteine	CID_12035	S01XA08	S	S: Sensory	S01	S01XA
+aciclovir	CID_2022	S01AD03	S	S: Sensory	S01	S01AD
+amikacin	CID_37768	S01AA21	S	S: Sensory	S01	S01AA
+ampicillin	CID_6249	S01AA19	S	S: Sensory	S01	S01AA
+atropine	CID_174174	S01FA01	S	S: Sensory	S01	S01FA
+azithromycin	CID_447043	S01AA26	S	S: Sensory	S01	S01AA
+betamethasone	CID_9782	S01CB04	S	S: Sensory	S01	S01CB
+betamethasone	CID_9782	S01BA06	S	S: Sensory	S01	S01BA
+brimonidine	CID_2435	S01GA07	S	S: Sensory	S01	S01GA
+brimonidine	CID_2435	S01EA05	S	S: Sensory	S01	S01EA
+brinzolamide	CID_68844	S01EC04	S	S: Sensory	S01	S01EC
+carbachol	CID_5831	S01EB02	S	S: Sensory	S01	S01EB
+cefuroxime	CID_41375	S01AA27	S	S: Sensory	S01	S01AA
+chloramphenicol	CID_5959	S01AA01	S	S: Sensory	S01	S01AA
+chlorhexidine	CID_9552079	S01AX09	S	S: Sensory	S01	S01AX
+ciprofloxacin	CID_62999	S01AE03	S	S: Sensory	S01	S01AE
+clonidine	CID_2803	S01EA04	S	S: Sensory	S01	S01EA
+cortisone	CID_222786	S01BA03	S	S: Sensory	S01	S01BA
+desonide	CID_5311066	S01BA11	S	S: Sensory	S01	S01BA
+dexamethasone	CID_9782	S01BA01	S	S: Sensory	S01	S01BA
+dexamethasone	CID_9782	S01CB01	S	S: Sensory	S01	S01CB
+dexamethasone	CID_5743	S01BA01	S	S: Sensory	S01	S01BA
+dexamethasone	CID_5743	S01CB01	S	S: Sensory	S01	S01CB
+dexpanthenol	CID_131204	S01XA12	S	S: Sensory	S01	S01XA
+diclofenamide	CID_3038	S01EC02	S	S: Sensory	S01	S01EC
+epinephrine	CID_5816	S01EA01	S	S: Sensory	S01	S01EA
+erythromycin	CID_12560	S01AA17	S	S: Sensory	S01	S01AA
+ethylmorphine	CID_5359271	S01XA06	S	S: Sensory	S01	S01XA
+famciclovir	CID_3324	S01AD07	S	S: Sensory	S01	S01AD
+fluocinolone acetonide	CID_6215	S01BA15	S	S: Sensory	S01	S01BA
+fluorescein	CID_16850	S01JA01	S	S: Sensory	S01	S01JA
+fluorometholone	CID_9878	S01BA07	S	S: Sensory	S01	S01BA
+fluorometholone	CID_9878	S01CB05	S	S: Sensory	S01	S01CB
+flurbiprofen	CID_3394	S01BC04	S	S: Sensory	S01	S01BC
+ganciclovir	CID_3454	S01AD09	S	S: Sensory	S01	S01AD
+gatifloxacin	CID_5379	S01AE06	S	S: Sensory	S01	S01AE
+hyaluronic acid	CID_24728612	S01KA01	S	S: Sensory	S01	S01KA
+hydrocortisone	CID_5754	S01CB03	S	S: Sensory	S01	S01CB
+hydrocortisone	CID_5754	S01BA02	S	S: Sensory	S01	S01BA
+idoxuridine	CID_5905	S01AD01	S	S: Sensory	S01	S01AD
+inosine	CID_6021	S01XA10	S	S: Sensory	S01	S01XA
+ketorolac	CID_6604122	S01BC05	S	S: Sensory	S01	S01BC
+ketotifen	CID_3827	S01GX08	S	S: Sensory	S01	S01GX
+lidocaine	CID_3676	S01HA07	S	S: Sensory	S01	S01HA
+lodoxamide	CID_44564	S01GX05	S	S: Sensory	S01	S01GX
+medrysone	CID_247839	S01BA08	S	S: Sensory	S01	S01BA
+methazolamide	CID_4100	S01EC05	S	S: Sensory	S01	S01EC
+metipranolol	CID_31477	S01ED04	S	S: Sensory	S01	S01ED
+nandrolone	CID_9904	S01XA11	S	S: Sensory	S01	S01XA
+naphazoline	CID_610682	S01GA01	S	S: Sensory	S01	S01GA
+natamycin	CID_5284447	S01AA10	S	S: Sensory	S01	S01AA
+nedocromil	CID_50294	S01GX04	S	S: Sensory	S01	S01GX
+nepafenac	CID_151075	S01BC10	S	S: Sensory	S01	S01BC
+norfloxacin	CID_4539	S01AE02	S	S: Sensory	S01	S01AE
+ofloxacin	CID_4583	S01AE01	S	S: Sensory	S01	S01AE
+oxyphenbutazone	CID_4641	S01BC02	S	S: Sensory	S01	S01BC
+oxytetracycline	CID_54675779	S01AA04	S	S: Sensory	S01	S01AA
+oxytetracycline	CID_54680782	S01AA04	S	S: Sensory	S01	S01AA
+paraoxon	CID_9395	S01EB10	S	S: Sensory	S01	S01EB
+physostigmine	CID_5983	S01EB05	S	S: Sensory	S01	S01EB
+pilocarpine	CID_5910	S01EB01	S	S: Sensory	S01	S01EB
+piroxicam	CID_54676228	S01BC06	S	S: Sensory	S01	S01BC
+potassium iodide	CID_4875	S01XA04	S	S: Sensory	S01	S01XA
+pranoprofen	CID_4888	S01BC09	S	S: Sensory	S01	S01BC
+prednisolone	CID_5755	S01CB02	S	S: Sensory	S01	S01CB
+prednisolone	CID_5755	S01BA04	S	S: Sensory	S01	S01BA
+propamidine	CID_64949	S01AX15	S	S: Sensory	S01	S01AX
+resorcinol	CID_5054	S01AX06	S	S: Sensory	S01	S01AX
+retinol	CID_445354	S01XA02	S	S: Sensory	S01	S01XA
+riboflavin	CID_493570	S01XA26	S	S: Sensory	S01	S01XA
+rimexolone	CID_16051942	S01BA13	S	S: Sensory	S01	S01BA
+salicylic acid	CID_338	S01BC08	S	S: Sensory	S01	S01BC
+sirolimus	CID_5284616	S01XA23	S	S: Sensory	S01	S01XA
+sodium propionate	CID_2723816	S01AX10	S	S: Sensory	S01	S01AX
+sulfacetamide	CID_5320	S01AB04	S	S: Sensory	S01	S01AB
+sulfamethizole	CID_5328	S01AB01	S	S: Sensory	S01	S01AB
+tetracycline	CID_54675776	S01AA09	S	S: Sensory	S01	S01AA
+tobramycin	CID_36294	S01AA12	S	S: Sensory	S01	S01AA
+triamcinolone	CID_31307	S01BA05	S	S: Sensory	S01	S01BA
+trifluridine	CID_6256	S01AD02	S	S: Sensory	S01	S01AD
+tropicamide	CID_5593	S01FA06	S	S: Sensory	S01	S01FA
+tyrothricin	CID_60196278	S01AA05	S	S: Sensory	S01	S01AA
+verteporfin	CID_9940086	S01LA01	S	S: Sensory	S01	S01LA
+acetic acid	CID_176	S02AA10	S	S: Sensory	S02	S02AA
+betamethasone	CID_9782	S02BA07	S	S: Sensory	S02	S02BA
+boric acid	CID_7628	S02AA03	S	S: Sensory	S02	S02AA
+chloramphenicol	CID_5959	S02AA01	S	S: Sensory	S02	S02AA
+chlorhexidine	CID_9552079	S02AA09	S	S: Sensory	S02	S02AA
+ciprofloxacin	CID_62999	S02AA15	S	S: Sensory	S02	S02AA
+clioquinol	CID_2788	S02AA05	S	S: Sensory	S02	S02AA
+dexamethasone	CID_9782	S02BA06	S	S: Sensory	S02	S02BA
+dexamethasone	CID_5743	S02BA06	S	S: Sensory	S02	S02BA
+fluocinolone acetonide	CID_6215	S02BA08	S	S: Sensory	S02	S02BA
+hydrocortisone	CID_5754	S02BA01	S	S: Sensory	S02	S02BA
+lidocaine	CID_3676	S02DA01	S	S: Sensory	S02	S02DA
+miconazole	CID_4189	S02AA13	S	S: Sensory	S02	S02AA
+ofloxacin	CID_4583	S02AA16	S	S: Sensory	S02	S02AA
+phenazone	CID_2206	S02DA03	S	S: Sensory	S02	S02DA
+prednisolone	CID_5755	S02BA03	S	S: Sensory	S02	S02BA
+tetracycline	CID_54675776	S02AA08	S	S: Sensory	S02	S02AA
+betamethasone	CID_9782	S03BA03	S	S: Sensory	S03	S03BA
+chloramphenicol	CID_5959	S03AA08	S	S: Sensory	S03	S03AA
+chlorhexidine	CID_9552079	S03AA04	S	S: Sensory	S03	S03AA
+ciprofloxacin	CID_62999	S03AA07	S	S: Sensory	S03	S03AA
+dexamethasone	CID_9782	S03BA01	S	S: Sensory	S03	S03BA
+dexamethasone	CID_5743	S03BA01	S	S: Sensory	S03	S03BA
+prednisolone	CID_5755	S03BA02	S	S: Sensory	S03	S03BA
+tetracycline	CID_54675776	S03AA02	S	S: Sensory	S03	S03AA
+acetylcysteine	CID_12035	V03AB23	V	V: Various	V03	V03AB
+amifostine	CID_2141	V03AF05	V	V: Various	V03	V03AF
+deferasirox	CID_5493381	V03AC03	V	V: Various	V03	V03AC
+deferiprone	CID_2972	V03AC02	V	V: Various	V03	V03AC
+deferoxamine	CID_62881	V03AC01	V	V: Various	V03	V03AC
+diazoxide	CID_3019	V03AH01	V	V: Various	V03	V03AH
+dimercaprol	CID_3080	V03AB09	V	V: Various	V03	V03AB
+ethanol	CID_702	V03AZ01	V	V: Various	V03	V03AZ
+ethanol	CID_702	V03AB16	V	V: Various	V03	V03AB
+flumazenil	CID_3373	V03AB25	V	V: Various	V03	V03AB
+fomepizole	CID_11957593	V03AB34	V	V: Various	V03	V03AB
+glutathione	CID_124886	V03AB32	V	V: Various	V03	V03AB
+mesna	CID_23662354	V03AF01	V	V: Various	V03	V03AF
+naloxone	CID_5284596	V03AB15	V	V: Various	V03	V03AB
+physostigmine	CID_5983	V03AB19	V	V: Various	V03	V03AB
+potassium iodide	CID_4875	V03AB21	V	V: Various	V03	V03AB
+sodium nitrite	CID_23668193	V03AB08	V	V: Various	V03	V03AB
+aminohippuric acid	CID_2148	V04CH30	V	V: Various	V04	V04CH
+folic acid	CID_6037	V04CX02	V	V: Various	V04	V04CX
+galactose	CID_6036	V04CE01	V	V: Various	V04	V04CE
+indocyanine green	CID_5284572	V04CX01	V	V: Various	V04	V04CX
+mannitol	CID_11850	V04CX04	V	V: Various	V04	V04CX
+metyrapone	CID_4174	V04CD01	V	V: Various	V04	V04CD
+pentagastrin	CID_9853654	V04CG04	V	V: Various	V04	V04CG
+protirelin	CID_638678	V04CJ02	V	V: Various	V04	V04CJ
+sincalide	CID_9833444	V04CC03	V	V: Various	V04	V04CC
+sulfobromophthalein	CID_6282	V04CE02	V	V: Various	V04	V04CE
+tolbutamide	CID_5505	V04CA01	V	V: Various	V04	V04CA
+acetrizoic acid	CID_6806	V08AA07	V	V: Various	V08	V08AA
+diatrizoic acid	CID_2140	V08AA01	V	V: Various	V08	V08AA
+gadoteridol	CID_60714	V08CA04	V	V: Various	V08	V08CA
+iobenzamic acid	CID_18377	V08AC05	V	V: Various	V08	V08AC
+iocarmic acid	CID_25229	V08AA08	V	V: Various	V08	V08AA
+iocetamic acid	CID_27648	V08AC07	V	V: Various	V08	V08AC
+iodamide	CID_3723	V08AA03	V	V: Various	V08	V08AA
+iodixanol	CID_3724	V08AB09	V	V: Various	V08	V08AB
+iodoxamic acid	CID_35740	V08AC01	V	V: Various	V08	V08AC
+iohexol	CID_3730	V08AB02	V	V: Various	V08	V08AB
+iomeprol	CID_3731	V08AB10	V	V: Various	V08	V08AB
+iopamidol	CID_65492	V08AB04	V	V: Various	V08	V08AB
+iopanoic acid	CID_3735	V08AC06	V	V: Various	V08	V08AC
+iopromide	CID_3736	V08AB05	V	V: Various	V08	V08AB
+ioversol	CID_3741	V08AB07	V	V: Various	V08	V08AB
+ioxaglic acid	CID_3742	V08AB03	V	V: Various	V08	V08AB
+ioxilan	CID_3743	V08AB12	V	V: Various	V08	V08AB
+metrizamide	CID_443944	V08AB01	V	V: Various	V08	V08AB
+perflenapent	CID_12675	V08DA03	V	V: Various	V08	V08DA
